@@ -1,0 +1,1 @@
+Finished setup, waiting to start, PID: p:0.02 i(x100):0.03 d(x10):1.00 iCap:1000

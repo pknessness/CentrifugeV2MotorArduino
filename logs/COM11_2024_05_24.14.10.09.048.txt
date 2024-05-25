@@ -1,0 +1,10 @@
+Finished setup, waiting to start, PID: p:0 i(x100):0 d(x10):0
+UPLoading
+csdt0
+csdt1
+csdt4
+csdt1
+csdt1
+csdt1
+0.00 4.00 2.00 1.00 5.00 0.00 0.00 
+0 1 4 1 1 5001 0 

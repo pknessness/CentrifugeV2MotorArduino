@@ -1,0 +1,1406 @@
+Finished setup, waiting to start, PID: p:0.30 i(x100):0.03 d(x10):10
+UPLoading
+csdt0
+csdt1000
+csdt4000
+csdt10000
+csdt12000
+csdt15000
+0.00 4.00 2.00 10.00 5.00 0.00 0.00 
+0 1000 4000 10000 12000 15000 20000 
+0 x:0.08 y:0.18 z:1.09 acc:1.11 inst:0.00 dt:0 timee:0 pComp:-0.33 iComp:0.00 dComp:inf FF:0.00 PID:0.00
+0.09
+4 x:0.09 y:0.20 z:1.07 acc:1.10 inst:0.02 dt:4 timee:1000 pComp:-0.32 iComp:-0.00 dComp:0.01 FF:0.00 PID:0.00
+0.22
+14 x:0.09 y:0.20 z:1.07 acc:1.10 inst:0.06 dt:10 timee:1000 pComp:-0.31 iComp:-0.00 dComp:0.00 FF:0.01 PID:0.00
+0.22
+24 x:0.09 y:0.20 z:1.07 acc:1.10 inst:0.10 dt:10 timee:1000 pComp:-0.30 iComp:-0.01 dComp:0.00 FF:0.01 PID:0.00
+0.22
+34 x:0.09 y:0.22 z:1.07 acc:1.10 inst:0.14 dt:10 timee:1000 pComp:-0.29 iComp:-0.01 dComp:0.00 FF:0.01 PID:0.00
+0.22
+44 x:0.09 y:0.22 z:1.07 acc:1.10 inst:0.18 dt:10 timee:1000 pComp:-0.28 iComp:-0.01 dComp:0.00 FF:0.01 PID:0.00
+0.22
+54 x:0.08 y:0.19 z:1.07 acc:1.09 inst:0.22 dt:10 timee:1000 pComp:-0.26 iComp:-0.02 dComp:0.00 FF:0.01 PID:0.00
+0.24
+65 x:0.08 y:0.19 z:1.07 acc:1.09 inst:0.26 dt:11 timee:1000 pComp:-0.25 iComp:-0.02 dComp:0.00 FF:0.01 PID:0.00
+0.22
+75 x:0.08 y:0.19 z:1.07 acc:1.09 inst:0.30 dt:10 timee:1000 pComp:-0.24 iComp:-0.02 dComp:0.00 FF:0.01 PID:0.00
+0.22
+85 x:0.08 y:0.20 z:1.08 acc:1.10 inst:0.34 dt:10 timee:1000 pComp:-0.23 iComp:-0.02 dComp:0.00 FF:0.01 PID:0.00
+0.19
+94 x:0.08 y:0.20 z:1.08 acc:1.10 inst:0.38 dt:9 timee:1000 pComp:-0.22 iComp:-0.03 dComp:0.00 FF:0.01 PID:0.00
+0.22
+104 x:0.08 y:0.21 z:1.08 acc:1.10 inst:0.42 dt:10 timee:1000 pComp:-0.20 iComp:-0.03 dComp:0.00 FF:0.01 PID:0.00
+0.24
+115 x:0.08 y:0.21 z:1.08 acc:1.10 inst:0.46 dt:11 timee:1000 pComp:-0.19 iComp:-0.03 dComp:0.00 FF:0.01 PID:0.00
+0.22
+125 x:0.07 y:0.21 z:1.06 acc:1.08 inst:0.50 dt:10 timee:1000 pComp:-0.17 iComp:-0.03 dComp:0.01 FF:0.01 PID:0.00
+0.22
+135 x:0.07 y:0.21 z:1.06 acc:1.08 inst:0.54 dt:10 timee:1000 pComp:-0.16 iComp:-0.03 dComp:0.00 FF:0.01 PID:0.00
+0.21
+145 x:0.07 y:0.21 z:1.06 acc:1.08 inst:0.58 dt:10 timee:1000 pComp:-0.15 iComp:-0.03 dComp:0.00 FF:0.01 PID:0.00
+0.24
+156 x:0.06 y:0.22 z:1.05 acc:1.08 inst:0.62 dt:11 timee:1000 pComp:-0.14 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+166 x:0.06 y:0.22 z:1.05 acc:1.08 inst:0.66 dt:10 timee:1000 pComp:-0.12 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+176 x:0.08 y:0.20 z:1.07 acc:1.09 inst:0.70 dt:10 timee:1000 pComp:-0.12 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+186 x:0.08 y:0.20 z:1.07 acc:1.09 inst:0.74 dt:10 timee:1000 pComp:-0.10 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.22
+197 x:0.08 y:0.19 z:1.06 acc:1.08 inst:0.79 dt:11 timee:1000 pComp:-0.09 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+207 x:0.08 y:0.19 z:1.06 acc:1.08 inst:0.83 dt:10 timee:1000 pComp:-0.08 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+217 x:0.08 y:0.19 z:1.06 acc:1.08 inst:0.87 dt:10 timee:1000 pComp:-0.06 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+227 x:0.06 y:0.19 z:1.05 acc:1.07 inst:0.91 dt:10 timee:1000 pComp:-0.05 iComp:-0.04 dComp:0.01 FF:0.01 PID:0.00
+0.22
+238 x:0.06 y:0.19 z:1.05 acc:1.07 inst:0.95 dt:11 timee:1000 pComp:-0.04 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+248 x:0.05 y:0.21 z:1.06 acc:1.08 inst:0.99 dt:10 timee:1000 pComp:-0.03 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+258 x:0.05 y:0.21 z:1.06 acc:1.08 inst:1.03 dt:10 timee:1000 pComp:-0.02 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+268 x:0.05 y:0.21 z:1.06 acc:1.08 inst:1.07 dt:10 timee:1000 pComp:-0.00 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.22
+279 x:0.05 y:0.21 z:1.06 acc:1.09 inst:1.12 dt:11 timee:1000 pComp:0.01 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.19
+288 x:0.05 y:0.21 z:1.06 acc:1.09 inst:1.15 dt:9 timee:1000 pComp:0.02 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.00
+0.21
+298 x:0.07 y:0.12 z:1.06 acc:1.07 inst:1.19 dt:10 timee:1000 pComp:0.04 iComp:-0.04 dComp:0.01 FF:0.01 PID:0.00
+0.21
+308 x:0.07 y:0.12 z:1.06 acc:1.07 inst:1.23 dt:10 timee:1000 pComp:0.05 iComp:-0.04 dComp:0.00 FF:0.01 PID:0.01
+0.54
+319 x:0.09 y:0.16 z:1.06 acc:1.08 inst:1.28 dt:11 timee:1000 pComp:0.06 iComp:-0.04 dComp:0.00 FF:0.02 PID:0.02
+0.87
+330 x:0.09 y:0.16 z:1.06 acc:1.08 inst:1.32 dt:11 timee:1000 pComp:0.07 iComp:-0.04 dComp:0.00 FF:0.03 PID:0.03
+1.32
+340 x:0.09 y:0.16 z:1.06 acc:1.08 inst:1.36 dt:10 timee:1000 pComp:0.09 iComp:-0.04 dComp:0.00 FF:0.04 PID:0.05
+1.71
+350 x:0.09 y:0.18 z:1.05 acc:1.07 inst:1.40 dt:10 timee:1000 pComp:0.10 iComp:-0.04 dComp:0.00 FF:0.05 PID:0.06
+2.21
+362 x:0.09 y:0.18 z:1.05 acc:1.07 inst:1.45 dt:12 timee:1000 pComp:0.11 iComp:-0.04 dComp:0.00 FF:0.07 PID:0.08
+2.68
+373 x:0.07 y:0.20 z:1.05 acc:1.07 inst:1.49 dt:11 timee:1000 pComp:0.13 iComp:-0.04 dComp:0.00 FF:0.08 PID:0.09
+3.14
+383 x:0.07 y:0.20 z:1.05 acc:1.07 inst:1.53 dt:10 timee:1000 pComp:0.14 iComp:-0.04 dComp:0.00 FF:0.10 PID:0.11
+3.56
+393 x:0.10 y:0.18 z:1.05 acc:1.07 inst:1.57 dt:10 timee:1000 pComp:0.15 iComp:-0.04 dComp:0.00 FF:0.11 PID:0.12
+3.99
+405 x:0.10 y:0.18 z:1.05 acc:1.07 inst:1.62 dt:12 timee:1000 pComp:0.16 iComp:-0.03 dComp:0.00 FF:0.12 PID:0.13
+4.48
+415 x:0.10 y:0.18 z:1.05 acc:1.07 inst:1.66 dt:10 timee:1000 pComp:0.18 iComp:-0.03 dComp:0.00 FF:0.14 PID:0.15
+4.94
+426 x:0.11 y:0.17 z:1.05 acc:1.07 inst:1.70 dt:11 timee:1000 pComp:0.19 iComp:-0.03 dComp:0.00 FF:0.15 PID:0.16
+5.41
+436 x:0.11 y:0.17 z:1.05 acc:1.07 inst:1.74 dt:10 timee:1000 pComp:0.20 iComp:-0.03 dComp:0.00 FF:0.17 PID:0.18
+5.88
+448 x:0.09 y:0.18 z:1.07 acc:1.09 inst:1.79 dt:12 timee:1000 pComp:0.21 iComp:-0.03 dComp:0.00 FF:0.18 PID:0.19
+6.16
+458 x:0.09 y:0.18 z:1.07 acc:1.09 inst:1.83 dt:10 timee:1000 pComp:0.22 iComp:-0.02 dComp:0.00 FF:0.19 PID:0.20
+6.68
+469 x:0.08 y:0.19 z:1.08 acc:1.10 inst:1.88 dt:11 timee:1000 pComp:0.23 iComp:-0.02 dComp:0.00 FF:0.21 PID:0.22
+7.07
+479 x:0.08 y:0.19 z:1.08 acc:1.10 inst:1.92 dt:10 timee:1000 pComp:0.24 iComp:-0.02 dComp:0.00 FF:0.22 PID:0.23
+7.57
+491 x:0.06 y:0.21 z:1.07 acc:1.10 inst:1.96 dt:12 timee:1000 pComp:0.26 iComp:-0.02 dComp:0.00 FF:0.24 PID:0.25
+8.14
+501 x:0.06 y:0.21 z:1.07 acc:1.10 inst:2.00 dt:10 timee:1000 pComp:0.27 iComp:-0.01 dComp:0.00 FF:0.25 PID:0.26
+8.60
+511 x:0.06 y:0.21 z:1.07 acc:1.10 inst:2.04 dt:10 timee:1000 pComp:0.28 iComp:-0.01 dComp:0.00 FF:0.27 PID:0.28
+9.07
+522 x:0.03 y:0.20 z:1.11 acc:1.13 inst:2.09 dt:11 timee:1000 pComp:0.29 iComp:-0.01 dComp:0.00 FF:0.28 PID:0.28
+9.19
+533 x:0.03 y:0.20 z:1.11 acc:1.13 inst:2.13 dt:11 timee:1000 pComp:0.30 iComp:-0.00 dComp:0.00 FF:0.29 PID:0.30
+9.79
+544 x:0.06 y:0.21 z:1.09 acc:1.11 inst:2.18 dt:11 timee:1000 pComp:0.32 iComp:0.00 dComp:0.01 FF:0.31 PID:0.33
+10.54
+554 x:0.06 y:0.21 z:1.09 acc:1.11 inst:2.22 dt:10 timee:1000 pComp:0.33 iComp:0.00 dComp:0.00 FF:0.33 PID:0.34
+10.95
+565 x:0.06 y:0.20 z:1.07 acc:1.09 inst:2.26 dt:11 timee:1000 pComp:0.35 iComp:0.01 dComp:0.01 FF:0.34 PID:0.37
+11.72
+576 x:0.06 y:0.20 z:1.07 acc:1.09 inst:2.30 dt:11 timee:1000 pComp:0.37 iComp:0.01 dComp:0.00 FF:0.37 PID:0.38
+No roots in between range
+0.34 10992.99
+586 x:0.06 y:0.20 z:1.07 acc:1.09 inst:2.34 dt:10 timee:1000 pComp:0.38 iComp:0.01 dComp:0.00 FF:-0.03 PID:0.40
+No roots in between range
+0.94 6518.52
+599 x:0.07 y:0.20 z:1.06 acc:1.08 inst:2.40 dt:13 timee:1000 pComp:0.39 iComp:0.02 dComp:0.00 FF:-0.03 PID:0.42
+No roots in between range
+1.85 7649.53
+611 x:0.10 y:0.13 z:1.06 acc:1.07 inst:2.44 dt:12 timee:1000 pComp:0.41 iComp:0.02 dComp:0.00 FF:-0.03 PID:0.44
+No roots in between range
+2.91 5633.97
+625 x:0.10 y:0.13 z:1.06 acc:1.07 inst:2.50 dt:14 timee:1000 pComp:0.43 iComp:0.03 dComp:0.00 FF:-0.03 PID:0.46
+No roots in between range
+4.08 6532.92
+638 x:0.09 y:0.08 z:1.07 acc:1.07 inst:2.55 dt:13 timee:1000 pComp:0.44 iComp:0.04 dComp:0.00 FF:-0.03 PID:0.48
+No roots in between range
+5.27 7664.45
+650 x:0.09 y:0.08 z:1.07 acc:1.07 inst:2.60 dt:12 timee:1000 pComp:0.46 iComp:0.04 dComp:0.00 FF:-0.03 PID:0.50
+No roots in between range
+6.65 5649.50
+664 x:0.08 y:0.14 z:1.07 acc:1.08 inst:2.66 dt:14 timee:1000 pComp:0.47 iComp:0.05 dComp:0.00 FF:-0.03 PID:0.52
+No roots in between range
+8.16 6549.19
+677 x:0.08 y:0.14 z:1.07 acc:1.08 inst:2.71 dt:13 timee:1000 pComp:0.49 iComp:0.05 dComp:0.00 FF:-0.03 PID:0.55
+No roots in between range
+10.05 6556.25
+690 x:0.10 y:0.17 z:1.07 acc:1.09 inst:2.76 dt:13 timee:1000 pComp:0.50 iComp:0.06 dComp:0.00 FF:-0.03 PID:0.57
+No roots in between range
+11.99 6563.22
+703 x:0.10 y:0.17 z:1.07 acc:1.09 inst:2.81 dt:13 timee:1000 pComp:0.52 iComp:0.07 dComp:0.00 FF:-0.03 PID:0.59
+No roots in between range
+14.34 6571.39
+716 x:0.11 y:0.18 z:1.06 acc:1.09 inst:2.86 dt:13 timee:1000 pComp:0.53 iComp:0.07 dComp:0.00 FF:-0.03 PID:0.61
+No roots in between range
+17.00 6580.35
+729 x:0.11 y:0.18 z:1.06 acc:1.09 inst:2.92 dt:13 timee:1000 pComp:0.55 iComp:0.08 dComp:0.00 FF:-0.03 PID:0.63
+No roots in between range
+19.92 6589.84
+742 x:0.07 y:0.21 z:1.05 acc:1.08 inst:2.97 dt:13 timee:1000 pComp:0.57 iComp:0.09 dComp:0.00 FF:-0.03 PID:0.66
+No roots in between range
+23.65 6601.60
+755 x:0.07 y:0.21 z:1.05 acc:1.08 inst:3.02 dt:13 timee:1000 pComp:0.58 iComp:0.10 dComp:0.00 FF:-0.03 PID:0.68
+No roots in between range
+27.25 6612.56
+768 x:0.08 y:0.20 z:1.05 acc:1.07 inst:3.07 dt:13 timee:1000 pComp:0.60 iComp:0.10 dComp:0.00 FF:-0.03 PID:0.71
+No roots in between range
+31.81 6626.08
+781 x:0.10 y:0.19 z:1.05 acc:1.07 inst:3.12 dt:13 timee:1000 pComp:0.61 iComp:0.11 dComp:0.00 FF:-0.03 PID:0.73
+No roots in between range
+35.99 5744.18
+795 x:0.10 y:0.19 z:1.05 acc:1.07 inst:3.18 dt:14 timee:1000 pComp:0.63 iComp:0.12 dComp:0.00 FF:-0.03 PID:0.76
+No roots in between range
+41.53 6653.59
+808 x:0.08 y:0.20 z:1.06 acc:1.09 inst:3.23 dt:13 timee:1000 pComp:0.64 iComp:0.13 dComp:0.00 FF:-0.03 PID:0.78
+No roots in between range
+46.22 7792.92
+820 x:0.08 y:0.20 z:1.06 acc:1.09 inst:3.28 dt:12 timee:1000 pComp:0.66 iComp:0.14 dComp:0.00 FF:-0.03 PID:0.80
+No roots in between range
+52.09 5788.16
+834 x:0.06 y:0.21 z:1.07 acc:1.09 inst:3.34 dt:14 timee:1000 pComp:0.67 iComp:0.15 dComp:0.00 FF:-0.03 PID:0.82
+No roots in between range
+59.02 6700.14
+847 x:0.06 y:0.21 z:1.07 acc:1.09 inst:3.39 dt:13 timee:1000 pComp:0.69 iComp:0.15 dComp:0.00 FF:-0.03 PID:0.85
+No roots in between range
+66.49 6719.21
+860 x:0.09 y:0.22 z:1.07 acc:1.09 inst:3.44 dt:13 timee:1000 pComp:0.70 iComp:0.16 dComp:0.00 FF:-0.03 PID:0.87
+No roots in between range
+73.94 7864.36
+872 x:0.09 y:0.22 z:1.07 acc:1.09 inst:3.49 dt:12 timee:1000 pComp:0.72 iComp:0.17 dComp:0.00 FF:-0.03 PID:0.89
+No roots in between range
+82.26 5864.27
+886 x:0.07 y:0.21 z:1.06 acc:1.09 inst:3.54 dt:14 timee:1000 pComp:0.74 iComp:0.18 dComp:0.00 FF:-0.03 PID:0.92
+No roots in between range
+93.68 6785.57
+899 x:0.07 y:0.21 z:1.06 acc:1.09 inst:3.60 dt:13 timee:1000 pComp:0.75 iComp:0.19 dComp:0.00 FF:-0.03 PID:0.95
+No roots in between range
+104.16 6810.15
+912 x:0.07 y:0.21 z:1.05 acc:1.07 inst:3.65 dt:13 timee:1000 pComp:0.77 iComp:0.20 dComp:0.00 FF:-0.03 PID:0.98
+No roots in between range
+117.95 5947.99
+926 x:0.07 y:0.21 z:1.05 acc:1.07 inst:3.70 dt:14 timee:1000 pComp:0.79 iComp:0.21 dComp:0.00 FF:-0.03 PID:1.01
+No roots in between range
+131.38 6872.12
+939 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.76 dt:13 timee:1000 pComp:0.81 iComp:0.22 dComp:0.00 FF:-0.03 PID:1.03
+No roots in between range
+147.09 8033.46
+951 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.80 dt:12 timee:1000 pComp:0.82 iComp:0.23 dComp:0.00 FF:-0.03 PID:1.06
+No roots in between range
+160.94 6043.09
+965 x:0.08 y:0.22 z:1.05 acc:1.08 inst:3.86 dt:14 timee:1000 pComp:0.83 iComp:0.24 dComp:0.00 FF:-0.03 PID:1.08
+No roots in between range
+175.84 6968.86
+978 x:0.07 y:0.22 z:1.05 acc:1.08 inst:3.91 dt:13 timee:1000 pComp:0.85 iComp:0.26 dComp:0.00 FF:-0.03 PID:1.11
+No roots in between range
+194.92 7009.09
+991 x:0.07 y:0.22 z:1.05 acc:1.08 inst:3.96 dt:13 timee:1000 pComp:0.87 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1005 x:0.07 y:0.21 z:1.05 acc:1.07 inst:4.00 dt:14 timee:4000 pComp:0.88 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1014 x:0.07 y:0.21 z:1.05 acc:1.07 inst:3.99 dt:9 timee:4000 pComp:0.88 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1024 x:0.07 y:0.21 z:1.05 acc:1.07 inst:3.98 dt:10 timee:4000 pComp:0.87 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1033 x:0.09 y:0.20 z:1.05 acc:1.07 inst:3.98 dt:9 timee:4000 pComp:0.87 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1044 x:0.09 y:0.20 z:1.05 acc:1.07 inst:3.97 dt:11 timee:4000 pComp:0.87 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1053 x:0.08 y:0.20 z:1.05 acc:1.08 inst:3.96 dt:9 timee:4000 pComp:0.87 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1063 x:0.08 y:0.20 z:1.05 acc:1.08 inst:3.96 dt:10 timee:4000 pComp:0.86 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1072 x:0.08 y:0.20 z:1.05 acc:1.08 inst:3.95 dt:9 timee:4000 pComp:0.86 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1082 x:0.07 y:0.20 z:1.06 acc:1.08 inst:3.95 dt:10 timee:4000 pComp:0.86 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1092 x:0.07 y:0.20 z:1.06 acc:1.08 inst:3.94 dt:10 timee:4000 pComp:0.86 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1102 x:0.08 y:0.21 z:1.06 acc:1.09 inst:3.93 dt:10 timee:4000 pComp:0.85 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1111 x:0.08 y:0.21 z:1.06 acc:1.09 inst:3.93 dt:9 timee:4000 pComp:0.85 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1121 x:0.08 y:0.21 z:1.06 acc:1.09 inst:3.92 dt:10 timee:4000 pComp:0.85 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1132 x:0.08 y:0.21 z:1.07 acc:1.09 inst:3.91 dt:11 timee:4000 pComp:0.85 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1141 x:0.08 y:0.21 z:1.07 acc:1.09 inst:3.91 dt:9 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1151 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.90 dt:10 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1160 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.89 dt:9 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1169 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.89 dt:9 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1180 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.88 dt:11 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1189 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.87 dt:9 timee:4000 pComp:0.84 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1199 x:0.08 y:0.26 z:1.09 acc:1.12 inst:3.87 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1208 x:0.08 y:0.26 z:1.09 acc:1.12 inst:3.86 dt:9 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1219 x:0.08 y:0.26 z:1.09 acc:1.12 inst:3.85 dt:11 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1229 x:0.08 y:0.24 z:1.07 acc:1.10 inst:3.85 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1238 x:0.08 y:0.24 z:1.07 acc:1.10 inst:3.84 dt:9 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1248 x:0.09 y:0.22 z:1.06 acc:1.09 inst:3.83 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1258 x:0.09 y:0.22 z:1.06 acc:1.09 inst:3.83 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1267 x:0.09 y:0.22 z:1.06 acc:1.09 inst:3.82 dt:9 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1277 x:0.09 y:0.22 z:1.05 acc:1.08 inst:3.82 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1286 x:0.09 y:0.22 z:1.05 acc:1.08 inst:3.81 dt:9 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1296 x:0.07 y:0.18 z:1.04 acc:1.06 inst:3.80 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1306 x:0.07 y:0.18 z:1.04 acc:1.06 inst:3.80 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1316 x:0.07 y:0.18 z:1.04 acc:1.06 inst:3.79 dt:10 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1325 x:0.06 y:0.17 z:1.05 acc:1.06 inst:3.78 dt:9 timee:4000 pComp:0.82 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1335 x:0.06 y:0.17 z:1.05 acc:1.06 inst:3.78 dt:10 timee:4000 pComp:0.81 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1346 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.77 dt:11 timee:4000 pComp:0.81 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1355 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.76 dt:9 timee:4000 pComp:0.81 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1364 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.76 dt:9 timee:4000 pComp:0.81 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1374 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.75 dt:10 timee:4000 pComp:0.80 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1383 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.74 dt:9 timee:4000 pComp:0.80 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1394 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.74 dt:11 timee:4000 pComp:0.80 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1403 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.73 dt:9 timee:4000 pComp:0.80 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1413 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.72 dt:10 timee:4000 pComp:0.80 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1423 x:0.10 y:0.20 z:1.07 acc:1.09 inst:3.72 dt:10 timee:4000 pComp:0.79 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1433 x:0.10 y:0.20 z:1.07 acc:1.09 inst:3.71 dt:10 timee:4000 pComp:0.79 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1443 x:0.08 y:0.21 z:1.07 acc:1.09 inst:3.70 dt:10 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1452 x:0.08 y:0.21 z:1.07 acc:1.09 inst:3.70 dt:9 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1461 x:0.08 y:0.21 z:1.07 acc:1.09 inst:3.69 dt:9 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1472 x:0.05 y:0.21 z:1.06 acc:1.09 inst:3.69 dt:11 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1481 x:0.05 y:0.21 z:1.06 acc:1.09 inst:3.68 dt:9 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1491 x:0.06 y:0.21 z:1.06 acc:1.08 inst:3.67 dt:10 timee:4000 pComp:0.78 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1500 x:0.06 y:0.21 z:1.06 acc:1.08 inst:3.67 dt:9 timee:4000 pComp:0.78 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1510 x:0.06 y:0.21 z:1.06 acc:1.08 inst:3.66 dt:10 timee:4000 pComp:0.77 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1521 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.65 dt:11 timee:4000 pComp:0.77 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1530 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.65 dt:9 timee:4000 pComp:0.77 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1540 x:0.05 y:0.19 z:1.07 acc:1.08 inst:3.64 dt:10 timee:4000 pComp:0.77 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1549 x:0.05 y:0.19 z:1.07 acc:1.08 inst:3.63 dt:9 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1559 x:0.05 y:0.19 z:1.07 acc:1.08 inst:3.63 dt:10 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1569 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.62 dt:10 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1579 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.61 dt:10 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1588 x:0.08 y:0.20 z:1.05 acc:1.07 inst:3.61 dt:9 timee:4000 pComp:0.76 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1597 x:0.08 y:0.20 z:1.05 acc:1.07 inst:3.60 dt:9 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1608 x:0.08 y:0.20 z:1.05 acc:1.07 inst:3.59 dt:11 timee:4000 pComp:0.76 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1618 x:0.10 y:0.21 z:1.05 acc:1.08 inst:3.59 dt:10 timee:4000 pComp:0.75 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1627 x:0.10 y:0.21 z:1.05 acc:1.08 inst:3.58 dt:9 timee:4000 pComp:0.75 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1637 x:0.05 y:0.16 z:1.09 acc:1.10 inst:3.58 dt:10 timee:4000 pComp:0.74 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1647 x:0.05 y:0.16 z:1.09 acc:1.10 inst:3.57 dt:10 timee:4000 pComp:0.74 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1657 x:0.05 y:0.16 z:1.09 acc:1.10 inst:3.56 dt:10 timee:4000 pComp:0.74 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1666 x:0.03 y:0.14 z:1.11 acc:1.11 inst:3.56 dt:9 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1676 x:0.03 y:0.14 z:1.11 acc:1.11 inst:3.55 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1686 x:0.05 y:0.18 z:1.08 acc:1.10 inst:3.54 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1696 x:0.05 y:0.18 z:1.08 acc:1.10 inst:3.54 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1705 x:0.05 y:0.18 z:1.08 acc:1.10 inst:3.53 dt:9 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1715 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.52 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1724 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.52 dt:9 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1735 x:0.08 y:0.21 z:1.06 acc:1.08 inst:3.51 dt:11 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1744 x:0.08 y:0.21 z:1.06 acc:1.08 inst:3.50 dt:9 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1754 x:0.08 y:0.21 z:1.06 acc:1.08 inst:3.50 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1763 x:0.10 y:0.20 z:1.04 acc:1.07 inst:3.49 dt:9 timee:4000 pComp:0.73 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+1773 x:0.10 y:0.20 z:1.04 acc:1.07 inst:3.48 dt:10 timee:4000 pComp:0.73 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1783 x:0.09 y:0.19 z:1.04 acc:1.07 inst:3.48 dt:10 timee:4000 pComp:0.72 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1793 x:0.09 y:0.19 z:1.04 acc:1.07 inst:3.47 dt:10 timee:4000 pComp:0.72 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1802 x:0.09 y:0.19 z:1.04 acc:1.07 inst:3.47 dt:9 timee:4000 pComp:0.72 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1813 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.46 dt:11 timee:4000 pComp:0.72 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1822 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.45 dt:9 timee:4000 pComp:0.72 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1832 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.45 dt:10 timee:4000 pComp:0.71 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1841 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.44 dt:9 timee:4000 pComp:0.71 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1851 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.43 dt:10 timee:4000 pComp:0.71 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1861 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.43 dt:10 timee:4000 pComp:0.71 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1871 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.42 dt:10 timee:4000 pComp:0.71 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1880 x:0.08 y:0.21 z:1.04 acc:1.07 inst:3.41 dt:9 timee:4000 pComp:0.70 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1890 x:0.08 y:0.21 z:1.04 acc:1.07 inst:3.41 dt:10 timee:4000 pComp:0.70 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1900 x:0.08 y:0.21 z:1.04 acc:1.07 inst:3.40 dt:10 timee:4000 pComp:0.70 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1910 x:0.07 y:0.21 z:1.05 acc:1.08 inst:3.39 dt:10 timee:4000 pComp:0.70 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1919 x:0.07 y:0.21 z:1.05 acc:1.08 inst:3.39 dt:9 timee:4000 pComp:0.69 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1929 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.38 dt:10 timee:4000 pComp:0.69 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1938 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.37 dt:9 timee:4000 pComp:0.69 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1949 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.37 dt:11 timee:4000 pComp:0.69 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1958 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.36 dt:9 timee:4000 pComp:0.68 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1968 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.35 dt:10 timee:4000 pComp:0.68 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1977 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.35 dt:9 timee:4000 pComp:0.68 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1988 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.34 dt:11 timee:4000 pComp:0.68 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+1997 x:0.06 y:0.19 z:1.06 acc:1.08 inst:3.34 dt:9 timee:4000 pComp:0.68 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2007 x:0.07 y:0.15 z:1.14 acc:1.15 inst:3.33 dt:10 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.01 FF:-0.03 PID:1.14
+2016 x:0.07 y:0.15 z:1.14 acc:1.15 inst:3.32 dt:9 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2027 x:0.08 y:0.21 z:1.10 acc:1.12 inst:3.32 dt:11 timee:4000 pComp:0.66 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2036 x:0.08 y:0.21 z:1.10 acc:1.12 inst:3.31 dt:9 timee:4000 pComp:0.66 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2046 x:0.08 y:0.21 z:1.10 acc:1.12 inst:3.30 dt:10 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2055 x:0.08 y:0.22 z:1.08 acc:1.11 inst:3.30 dt:9 timee:4000 pComp:0.66 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2065 x:0.08 y:0.22 z:1.08 acc:1.11 inst:3.29 dt:10 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2075 x:0.06 y:0.23 z:1.07 acc:1.09 inst:3.28 dt:10 timee:4000 pComp:0.66 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2085 x:0.06 y:0.23 z:1.07 acc:1.09 inst:3.28 dt:10 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2094 x:0.06 y:0.23 z:1.07 acc:1.09 inst:3.27 dtFF:-0.03 PID:1.14
+2104 x:0.06 y:0.23 z:1.07 acc:1.09 inst:3.26 dt:10 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2114 x:0.06 y:0.23 z:1.07 acc:1.09 inst:3.26 dt:10 timee:4:9 timee:4000 pComp:0.65 iComp:0.27 dComp:-0.00 000 pComp:0.65 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2124 x:0.04 y:0.20 z:1.12 acc:1.14 inst:3.25 dt:10 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.01 FF:-0.03 PID:1.14
+2133 x:0.04 y:0.20 z:1.12 acc:1.14 inst:3.24 dt:9 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2143 x:0.06 y:0.20 z:1.08 acc:1.10 inst:3.24 dt:10 timee:4000 pComp:0.64 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2152 x:0.06 y:0.20 z:1.08 acc:1.10 inst:3.23 dt:9 timee:4000 pComp:0.64 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2163 x:0.06 y:0.20 z:1.08 acc:1.10 inst:3.22 dt:11 timee:4000 pComp:0.64 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2172 x:0.07 y:0.21 z:1.07 acc:1.10 inst:3.22 dt:9 timee:4000 pComp:0.64 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2182 x:0.07 y:0.21 z:1.07 acc:1.10 inst:3.21 dt:10 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2191 x:0.10 y:0.22 z:1.07 acc:1.10 inst:3.21 dt:9 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2202 x:0.10 y:0.22 z:1.07 acc:1.10 inst:3.20 dt:11 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2211 x:0.10 y:0.22 z:1.07 acc:1.10 inst:3.19 dt:9 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2221 x:0.12 y:0.21 z:1.06 acc:1.08 inst:3.19 dt:10 timee:4000 pComp:0.63 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2230 x:0.12 y:0.21 z:1.06 acc:1.08 inst:3.18 dt:9 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2241 x:0.11 y:0.19 z:1.06 acc:1.08 inst:3.17 dt:11 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2250 x:0.11 y:0.19 z:1.06 acc:1.08 inst:3.17 dt:9 timee:4000 pComp:0.63 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2260 x:0.11 y:0.19 z:1.06 acc:1.08 inst:3.16 dt:10 timee:4000 pComp:0.62 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2269 x:0.09 y:0.21 z:1.07 acc:1.09 inst:3.15 dt:9 timee:4000 pComp:0.62 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2279 x:0.09 y:0.21 z:1.07 acc:1.09 inst:3.15 dt:10 timee:4000 pComp:0.62 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2289 x:0.09 y:0.22 z:1.07 acc:1.10 inst:3.14 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2299 x:0.09 y:0.22 z:1.07 acc:1.10 inst:3.13 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2308 x:0.09 y:0.22 z:1.07 acc:1.10 inst:3.13 dt:9 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2318 x:0.09 y:0.21 z:1.06 acc:1.08 inst:3.12 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2328 x:0.09 y:0.21 z:1.06 acc:1.08 inst:3.11 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2338 x:0.09 y:0.20 z:1.04 acc:1.06 inst:3.11 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2347 x:0.09 y:0.20 z:1.04 acc:1.06 inst:3.10 dt:9 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2357 x:0.09 y:0.20 z:1.04 acc:1.06 inst:3.10 dt:10 timee:4000 pComp:0.61 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2367 x:0.13 y:0.20 z:1.10 acc:1.13 inst:3.09 dt:10 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.01 FF:-0.03 PID:1.14
+2377 x:0.13 y:0.20 z:1.10 acc:1.13 inst:3.08 dt:10 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2386 x:0.10 y:0.19 z:1.08 acc:1.10 inst:3.08 dt:9 timee:4000 pComp:0.59 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2396 x:0.10 y:0.19 z:1.08 acc:1.10 inst:3.07 dt:10 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2405 x:0.10 y:0.19 z:1.08 acc:1.10 inst:3.06 dt:9 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2416 x:0.08 y:0.22 z:1.07 acc:1.09 inst:3.06 dt:11 timee:4000 pComp:0.59 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2425 x:0.08 y:0.22 z:1.07 acc:1.09 inst:3.05 dt:9 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2435 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.04 dt:10 timee:4000 pComp:0.59 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2444 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.04 dt:9 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2454 x:0.07 y:0.21 z:1.06 acc:1.08 inst:3.03 dt:10 timee:4000 pComp:0.58 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2464 x:0.08 y:0.20 z:1.04 acc:1.06 inst:3.02 dt:10 timee:4000 pComp:0.59 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2473 x:0.08 y:0.20 z:1.04 acc:1.06 inst:3.02 dt:9 timee:4000 pComp:0.59 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2483 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.01 dt:10 timee:4000 pComp:0.58 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2493 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.00 dt:10 timee:4000 pComp:0.58 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2503 x:0.07 y:0.19 z:1.05 acc:1.07 inst:3.00 dt:10 timee:4000 pComp:0.58 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2513 x:0.08 y:0.20 z:1.05 acc:1.08 inst:2.99 dt:10 timee:4000 pComp:0.57 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2522 x:0.08 y:0.20 z:1.05 acc:1.08 inst:2.99 dt:9 timee:4000 pComp:0.57 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2532 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.98 dt:10 timee:4000 pComp:0.57 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2542 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.97 dt:10 timee:4000 pComp:0.57 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2552 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.97 dt:10 timee:4000 pComp:0.57 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2561 x:0.09 y:0.19 z:1.06 acc:1.09 inst:2.96 dt:9 timee:4000 pComp:0.56 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2571 x:0.09 y:0.19 z:1.06 acc:1.09 inst:2.95 dt:10 timee:4000 pComp:0.56 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2581 x:0.10 y:0.23 z:1.06 acc:1.08 inst:2.95 dt:10 timee:4000 pComp:0.56 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2591 x:0.10 y:0.23 z:1.06 acc:1.08 inst:2.94 dt:10 timee:4000 pComp:0.56 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2600 x:0.10 y:0.23 z:1.06 acc:1.08 inst:2.93 dt:9 timee:4000 pComp:0.55 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2610 x:0.09 y:0.22 z:1.06 acc:1.09 inst:2.93 dt:10 timee:4000 pComp:0.55 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2619 x:0.09 y:0.22 z:1.06 acc:1.09 inst:2.92 dt:9 timee:4000 pComp:0.55 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2630 x:0.09 y:0.22 z:1.07 acc:1.09 inst:2.91 dt:11 timee:4000 pComp:0.55 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2639 x:0.09 y:0.22 z:1.07 acc:1.09 inst:2.91 dt:9 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2649 x:0.09 y:0.22 z:1.07 acc:1.09 inst:2.90 dt:10 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2659 x:0.08 y:0.22 z:1.06 acc:1.09 inst:2.89 dt:10 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2669 x:0.08 y:0.22 z:1.06 acc:1.09 inst:2.89 dt:10 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2679 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.88 dt:10 timee:4000 pComp:0.54 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2688 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.87 dt:9 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2697 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.87 dt:9 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2708 x:0.09 y:0.21 z:1.04 acc:1.07 inst:2.86 dt:11 timee:4000 pComp:0.54 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2717 x:0.09 y:0.21 z:1.04 acc:1.07 inst:2.86 dt:9 timee:4000 pComp:0.54 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2727 x:0.09 y:0.21 z:1.04 acc:1.07 inst:2.85 dt:10 timee:4000 pComp:0.53 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2737 x:0.10 y:0.23 z:1.05 acc:1.08 inst:2.84 dt:10 timee:4000 pComp:0.53 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2746 x:0.10 y:0.23 z:1.05 acc:1.08 inst:2.84 dt:9 timee:4000 pComp:0.53 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2757 x:0.09 y:0.22 z:1.06 acc:1.09 inst:2.83 dt:11 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2766 x:0.09 y:0.22 z:1.06 acc:1.09 inst:2.82 dt:9 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2775 x:0.09 y:0.22 z:1.06 acc:1.09 inst:2.82 dt:9 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2785 x:0.05 y:0.19 z:1.04 acc:1.06 inst:2.81 dt:10 timee:4000 pComp:0.53 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2795 x:0.05 y:0.19 z:1.04 acc:1.06 inst:2.80 dt:10 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2805 x:0.06 y:0.17 z:1.04 acc:1.06 inst:2.80 dt:10 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2814 x:0.06 y:0.17 z:1.04 acc:1.06 inst:2.79 dt:9 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2824 x:0.06 y:0.17 z:1.04 acc:1.06 inst:2.78 dt:10 timee:4000 pComp:0.52 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2834 x:0.09 y:0.18 z:1.05 acc:1.07 inst:2.78 dt:10 timee:4000 pComp:0.51 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2844 x:0.09 y:0.18 z:1.05 acc:1.07 inst:2.77 dt:10 timee:4000 pComp:0.51 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2854 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.76 dt:10 timee:4000 pComp:0.50 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2863 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.76 dt:9 timee:4000 pComp:0.50 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2872 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.75 dt:9 timee:4000 pComp:0.50 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2883 x:0.10 y:0.19 z:1.07 acc:1.09 inst:2.74 dt:11 timee:4000 pComp:0.50 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2892 x:0.10 y:0.19 z:1.07 acc:1.09 inst:2.74 dt:9 timee:4000 pComp:0.49 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2902 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.73 dt:10 timee:4000 pComp:0.49 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+2911 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.73 dt:9 timee:4000 pComp:0.49 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2922 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.72 dt:11 timee:4000 pComp:0.49 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2932 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.71 dt:10 timee:4000 pComp:0.49 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2941 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.71 dt:9 timee:4000 pComp:0.49 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2951 x:0.08 y:0.22 z:1.06 acc:1.08 inst:2.70 dt:10 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2960 x:0.08 y:0.22 z:1.06 acc:1.08 inst:2.69 dt:9 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2970 x:0.08 y:0.22 z:1.06 acc:1.08 inst:2.69 dt:10 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2980 x:0.08 y:0.23 z:1.05 acc:1.08 inst:2.68 dt:10 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2990 x:0.08 y:0.23 z:1.05 acc:1.08 inst:2.67 dt:10 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+2999 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.67 dt:9 timee:4000 pComp:0.48 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3010 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.66 dt:11 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3019 x:0.09 y:0.21 z:1.05 acc:1.08 inst:2.65 dt:9 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3029 x:0.10 y:0.21 z:1.06 acc:1.09 inst:2.65 dt:10 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3038 x:0.10 y:0.21 z:1.06 acc:1.09 inst:2.64 dt:9 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3048 x:0.10 y:0.19 z:1.05 acc:1.07 inst:2.63 dt:10 timee:4000 pComp:0.47 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3058 x:0.10 y:0.19 z:1.05 acc:1.07 inst:2.63 dt:10 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3068 x:0.10 y:0.19 z:1.05 acc:1.07 inst:2.62 dt:10 timee:4000 pComp:0.46 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3077 x:0.10 y:0.17 z:1.04 acc:1.06 inst:2.62 dt:9 timee:4000 pComp:0.47 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3086 x:0.10 y:0.17 z:1.04 acc:1.06 inst:2.61 dt:9 timee:4000 pComp:0.47 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3097 x:0.10 y:0.16 z:1.04 acc:1.06 inst:2.60 dt:11 timee:4000 pComp:0.46 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3106 x:0.10 y:0.16 z:1.04 acc:1.06 inst:2.60 dt:9 timee:4000 pComp:0.46 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3116 x:0.10 y:0.16 z:1.04 acc:1.06 inst:2.59 dt:10 timee:4000 pComp:0.46 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3126 x:0.11 y:0.18 z:1.05 acc:1.07 inst:2.58 dt:10 timee:4000 pComp:0.45 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3136 x:0.11 y:0.18 z:1.05 acc:1.07 inst:2.58 dt:10 timee:4000 pComp:0.45 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3146 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.57 dt:10 timee:4000 pComp:0.45 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3155 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.56 dt:9 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3165 x:0.10 y:0.18 z:1.06 acc:1.08 inst:2.56 dt:10 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3174 x:0.11 y:0.18 z:1.06 acc:1.08 inst:2.55 dt:9 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3185 x:0.11 y:0.18 z:1.06 acc:1.08 inst:2.54 dt:11 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3194 x:0.10 y:0.18 z:1.05 acc:1.07 inst:2.54 dt:9 timee:4000 pComp:0.44 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3204 x:0.10 y:0.18 z:1.05 acc:1.07 inst:2.53 dt:10 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3213 x:0.10 y:0.18 z:1.05 acc:1.07 inst:2.52 dt:9 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3224 x:0.08 y:0.18 z:1.04 acc:1.06 inst:2.52 dt:11 timee:4000 pComp:0.44 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3233 x:0.08 y:0.18 z:1.04 acc:1.06 inst:2.51 dt:9 timee:4000 pComp:0.44 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3243 x:0.05 y:0.17 z:1.06 acc:1.08 inst:2.50 dt:10 timee:4000 pComp:0.43 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3252 x:0.05 y:0.17 z:1.06 acc:1.08 inst:2.50 dt:9 timee:4000 pComp:0.43 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3261 x:0.05 y:0.17 z:1.06 acc:1.08 inst:2.49 dt:9 timee:4000 pComp:0.43 iComp:0.27 dComp:-6 acc:1.08 inst:2.49 dt:11 timee:4000 pComp:0.42 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3281 xe:4000 pComp:0.42 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3291 x:0.07 y:0.21 z:1.06 acc:1.08 i0.00 FF:-0.03 PID:1.14
+3272 x:0.06 y:0.20 z:1.0:0.06 y:0.20 z:1.06 acc:1.08 inst:2.48 dt:9 timenst:2.47 dt:10 timee:4000 pComp:0.42 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3300 x:0.07 y:0.21 z:1.06 acc:1.08 inst:2.47 dt:9 timee:4000 pComp:0.41 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3311 x:0.07 y:0.21 z:1.06 acc:1.08 inst:2.46 dt:11 timee:4000 pComp:0.41 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3321 x:0.07 y:0.20 z:1.09 acc:1.11 inst:2.45 dt:10 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3330 x:0.07 y:0.20 z:1.09 acc:1.11 inst:2.45 dt:9 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3340 x:0.06 y:0.21 z:1.09 acc:1.11 inst:2.44 dt:10 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3350 x:0.06 y:0.21 z:1.09 acc:1.11 inst:2.43 dt:10 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3360 x:0.06 y:0.21 z:1.09 acc:1.11 inst:2.43 dt:10 timee:4000 pComp:0.39 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3369 x:0.09 y:0.18 z:1.06 acc:1.08 inst:2.42 dt:9 timee:4000 pComp:0.40 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3379 x:0.09 y:0.18 z:1.06 acc:1.08 inst:2.41 dt:10 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3388 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.41 dt:9 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3399 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.40 dt:11 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3408 x:0.08 y:0.20 z:1.06 acc:1.08 inst:2.39 dt:9 timee:4000 pComp:0.40 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3418 x:0.07 y:0.21 z:1.07 acc:1.09 inst:2.39 dt:10 timee:4000 pComp:0.39 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3427 x:0.07 y:0.21 z:1.07 acc:1.09 inst:2.38 dt:9 timee:4000 pComp:0.39 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3438 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.37 dt:11 timee:4000 pComp:0.39 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3447 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.37 dt:9 timee:4000 pComp:0.38 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3457 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.36 dt:10 timee:4000 pComp:0.38 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3466 x:0.15 y:0.17 z:1.07 acc:1.10 inst:2.36 dt:9 timee:4000 pComp:0.38 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3477 x:0.15 y:0.17 z:1.07 acc:1.10 inst:2.35 dt:11 timee:4000 pComp:0.38 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3486 x:0.17 y:0.15 z:1.08 acc:1.11 inst:2.34 dt:9 timee:4000 pComp:0.37 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3496 x:0.17 y:0.15 z:1.08 acc:1.11 inst:2.34 dt:10 timee:4000 pComp:0.37 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3505 x:0.17 y:0.15 z:1.08 acc:1.11 inst:2.33 dt:9 timee:4000 pComp:0.37 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3515 x:0.13 y:0.17 z:1.08 acc:1.10 inst:2.32 dt:10 timee:4000 pComp:0.37 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3525 x:0.13 y:0.17 z:1.08 acc:1.10 inst:2.32 dt:10 timee:4000 pComp:0.37 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3535 x:0.10 y:0.20 z:1.08 acc:1.10 inst:2.31 dt:10 timee:4000 pComp:0.36 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3544 x:0.10 y:0.20 z:1.08 acc:1.10 inst:2.30 dt:9 timee:4000 pComp:0.36 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3554 x:0.10 y:0.20 z:1.08 acc:1.10 inst:2.30 dt:10 timee:4000 pComp:0.36 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3564 x:0.07 y:0.23 z:1.08 acc:1.11 inst:2.29 dt:10 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3574 x:0.07 y:0.23 z:1.08 acc:1.11 inst:2.28 dt:10 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3583 x:0.05 y:0.19 z:1.07 acc:1.09 inst:2.28 dt:9 timee:4000 pComp:0.36 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3593 x:0.05 y:0.19 z:1.07 acc:1.09 inst:2.27 dt:10 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3602 x:0.05 y:0.19 z:1.07 acc:1.09 inst:2.27 dt:9 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3613 x:0.06 y:0.19 z:1.08 acc:1.10 inst:2.26 dt:11 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3622 x:0.06 y:0.19 z:1.08 acc:1.10 inst:2.25 dt:9 timee:4000 pComp:0.35 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3632 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.25 dt:10 timee:4000 pComp:0.35 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3641 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.24 dt:9 timee:4000 pComp:0.34 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3652 x:0.08 y:0.21 z:1.07 acc:1.09 inst:2.23 dt:11 timee:4000 pComp:0.34 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3661 x:0.09 y:0.20 z:1.05 acc:1.08 inst:2.23 dt:9 timee:4000 pComp:0.34 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3670 x:0.09 y:0.20 z:1.05 acc:1.08 inst:2.22 dt:9 timee:4000 pComp:0.34 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3680 x:0.08 y:0.20 z:1.07 acc:1.09 inst:2.21 dt:10 timee:4000 pComp:0.34 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3691 x:0.08 y:0.20 z:1.07 acc:1.09 inst:2.21 dt:11 timee:4000 pComp:0.34 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3700 x:0.08 y:0.20 z:1.07 acc:1.09 inst:2.20 dt:9 timee:4000 pComp:0.33 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3710 x:0.06 y:0.23 z:1.07 acc:1.10 inst:2.19 dt:10 timee:4000 pComp:0.33 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3719 x:0.06 y:0.23 z:1.07 acc:1.10 inst:2.19 dt:9 timee:4000 pComp:0.33 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3729 x:0.06 y:0.22 z:1.07 acc:1.09 inst:2.18 dt:10 timee:4000 pComp:0.33 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3739 x:0.06 y:0.22 z:1.07 acc:1.09 inst:2.17 dt:10 timee:4000 pComp:0.33 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3749 x:0.06 y:0.22 z:1.07 acc:1.09 inst:2.17 dt:10 timee:4000 pComp:0.32 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3758 x:0.08 y:0.22 z:1.06 acc:1.08 inst:2.16 dt:9 timee:4000 pComp:0.32 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3767 x:0.08 y:0.22 z:1.06 acc:1.08 inst:2.16 dt:9 timee:4000 pComp:0.32 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3778 x:0.07 y:0.24 z:1.06 acc:1.09 inst:2.15 dt:11 timee:4000 pComp:0.32 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3787 x:0.07 y:0.24 z:1.06 acc:1.09 inst:2.14 dt:9 timee:4000 pComp:0.32 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3797 x:0.07 y:0.24 z:1.06 acc:1.09 inst:2.14 dt:10 timee:4000 pComp:0.31 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3807 x:0.06 y:0.22 z:1.07 acc:1.09 inst:2.13 dt:10 timee:4000 pComp:0.31 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3816 x:0.06 y:0.22 z:1.07 acc:1.09 inst:2.12 dt:9 timee:4000 pComp:0.31 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3827 x:0.03 y:0.16 z:1.13 acc:1.15 inst:2.12 dt:11 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.01 FF:-0.03 PID:1.14
+3836 x:0.03 y:0.16 z:1.13 acc:1.15 inst:2.11 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3845 x:0.03 y:0.16 z:1.13 acc:1.15 inst:2.10 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3855 x:0.07 y:0.19 z:1.09 acc:1.11 inst:2.10 dt:10 timee:4000 pComp:0.30 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3865 x:0.07 y:0.19 z:1.09 acc:1.11 inst:2.09 dt:10 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3875 x:0.08 y:0.18 z:1.07 acc:1.09 inst:2.08 dt:10 timee:4000 pComp:0.30 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3884 x:0.08 y:0.18 z:1.07 acc:1.09 inst:2.08 dt:9 timee:4000 pComp:0.30 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3894 x:0.08 y:0.18 z:1.07 acc:1.09 inst:2.07 dt:10 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3905 x:0.09 y:0.17 z:1.08 acc:1.10 inst:2.06 dt:11 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3914 x:0.09 y:0.17 z:1.08 acc:1.10 inst:2.06 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3924 x:0.14 y:0.20 z:1.04 acc:1.07 inst:2.05 dt:10 timee:4000 pComp:0.29 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3933 x:0.14 y:0.20 z:1.04 acc:1.07 inst:2.04 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3942 x:0.14 y:0.20 z:1.04 acc:1.07 inst:2.04 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3953 x:0.17 y:0.19 z:1.02 acc:1.05 inst:2.03 dt:11 timee:4000 pComp:0.30 iComp:0.27 dComp:0.00 FF:-0.03 PID:1.14
+3962 x:0.17 y:0.19 z:1.02 acc:1.05 inst:2.03 dt:9 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3972 x:0.13 y:0.20 z:1.04 acc:1.07 inst:2.02 dt:10 timee:4000 pComp:0.29 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3981 x:0.13 y:0.20 z:1.04 acc:1.07 inst:2.01 dt:9 timee:4000 pComp:0.28 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+3992 x:0.13 y:0.20 z:1.04 acc:1.07 inst:2.01 dt:11 timee:4000 pComp:0.28 iComp:0.27 dComp:-0.00 FF:-0.03 PID:1.14
+No roots in between range
+207.71 14092.22
+4001 x:0.12 y:0.20 z:1.06 acc:1.09 inst:2.00 dt:9 timee:10000 pComp:0.27 iComp:0.27 dComp:-0.00 FF:-0.03 PID:0.54
+No roots in between range
+7.81 6552.99
+4014 x:0.12 y:0.20 z:1.06 acc:1.09 inst:2.02 dt:13 timee:10000 pComp:0.28 iComp:0.27 dComp:0.00 FF:-0.03 PID:0.55
+No roots in between range
+8.89 6557.06
+4027 x:0.11 y:0.19 z:1.08 acc:1.10 inst:2.04 dt:13 timee:10000 pComp:0.28 iComp:0.28 dComp:0.00 FF:-0.03 PID:0.56
+No roots in between range
+9.24 5664.40
+4041 x:0.05 y:0.20 z:1.07 acc:1.09 inst:2.05 dt:14 timee:10000 pComp:0.29 iComp:0.28 dComp:0.00 FF:-0.03 PID:0.57
+No roots in between range
+10.62 6563.36
+4054 x:0.05 y:0.20 z:1.07 acc:1.09 inst:2.07 dt:13 timee:10000 pComp:0.30 iComp:0.28 dComp:0.00 FF:-0.03 PID:0.58
+No roots in between range
+11.45 6566.31
+4067 x:0.05 y:0.19 z:1.06 acc:1.08 inst:2.09 dt:13 timee:10000 pComp:0.30 iComp:0.29 dComp:0.00 FF:-0.03 PID:0.59
+No roots in between range
+12.79 5677.11
+4081 x:0.05 y:0.19 z:1.06 acc:1.08 inst:2.11 dt:14 timee:10000 pComp:0.31 iComp:0.29 dComp:0.00 FF:-0.03 PID:0.60
+No roots in between range
+13.81 6574.52
+4094 x:0.06 y:0.18 z:1.05 acc:1.07 inst:2.13 dt:13 timee:10000 pComp:0.32 iComp:0.30 dComp:0.00 FF:-0.03 PID:0.61
+No roots in between range
+15.21 6579.27
+4107 x:0.06 y:0.18 z:1.05 acc:1.07 inst:2.14 dt:13 timee:10000 pComp:0.32 iComp:0.30 dComp:0.00 FF:-0.03 PID:0.62
+No roots in between range
+16.31 5689.02
+4121 x:0.06 y:0.19 z:1.05 acc:1.07 inst:2.16 dt:14 timee:10000 pComp:0.33 iComp:0.31 dComp:0.00 FF:-0.03 PID:0.64
+No roots in between range
+17.83 6587.90
+4134 x:0.06 y:0.19 z:1.05 acc:1.07 inst:2.18 dt:13 timee:10000 pComp:0.33 iComp:0.31 dComp:0.00 FF:-0.03 PID:0.64
+No roots in between range
+19.08 6591.95
+4147 x:0.05 y:0.19 z:1.04 acc:1.06 inst:2.20 dt:13 timee:10000 pComp:0.34 iComp:0.31 dComp:0.00 FF:-0.03 PID:0.66
+No roots in between range
+20.77 5703.45
+4161 x:0.05 y:0.19 z:1.04 acc:1.06 inst:2.21 dt:14 timee:10000 pComp:0.35 iComp:0.32 dComp:0.00 FF:-0.03 PID:0.67
+No roots in between range
+22.26 6602.00
+4174 x:0.07 y:0.19 z:1.05 acc:1.07 inst:2.23 dt:13 timee:10000 pComp:0.35 iComp:0.32 dComp:0.00 FF:-0.03 PID:0.67
+No roots in between range
+23.25 6605.03
+4187 x:0.07 y:0.20 z:1.06 acc:1.08 inst:2.25 dt:13 timee:10000 pComp:0.35 iComp:0.33 dComp:0.00 FF:-0.03 PID:0.68
+No roots in between range
+24.17 7734.36
+4199 x:0.07 y:0.20 z:1.06 acc:1.08 inst:2.27 dt:12 timee:10000 pComp:0.35 iComp:0.33 dComp:0.00 FF:-0.03 PID:0.69
+No roots in between range
+25.82 4997.84
+4214 x:0.06 y:0.21 z:1.06 acc:1.08 inst:2.29 dt:15 timee:10000 pComp:0.36 iComp:0.34 dComp:0.00 FF:-0.03 PID:0.70
+No roots in between range
+27.93 7745.73
+4226 x:0.06 y:0.21 z:1.06 acc:1.08 inst:2.30 dt:12 timee:10000 pComp:0.37 iComp:0.34 dComp:0.00 FF:-0.03 PID:0.71
+No roots in between range
+29.57 5730.14
+4240 x:0.08 y:0.21 z:1.05 acc:1.08 inst:2.32 dt:14 timee:10000 pComp:0.37 iComp:0.35 dComp:0.00 FF:-0.03 PID:0.72
+No roots in between range
+31.85 6630.71
+4253 x:0.08 y:0.21 z:1.05 acc:1.08 inst:2.34 dt:13 timee:10000 pComp:0.38 iComp:0.35 dComp:0.00 FF:-0.03 PID:0.73
+No roots in between range
+33.79 6636.31
+4266 x:0.10 y:0.19 z:1.05 acc:1.07 inst:2.35 dt:13 timee:10000 pComp:0.38 iComp:0.36 dComp:0.00 FF:-0.03 PID:0.74
+No roots in between range
+36.31 6643.49
+4279 x:0.10 y:0.19 z:1.05 acc:1.07 inst:2.37 dt:13 timee:10000 pComp:0.39 iComp:0.36 dComp:0.00 FF:-0.03 PID:0.75
+No roots in between range
+38.43 5755.57
+4293 x:0.08 y:0.17 z:1.04 acc:1.05 inst:2.39 dt:14 timee:10000 pComp:0.40 iComp:0.37 dComp:0.00 FF:-0.03 PID:0.77
+No roots in between range
+42.61 6661.08
+4306 x:0.08 y:0.17 z:1.04 acc:1.05 inst:2.41 dt:13 timee:10000 pComp:0.41 iComp:0.37 dComp:0.00 FF:-0.03 PID:0.78
+No roots in between range
+44.79 6667.01
+4319 x:0.07 y:0.20 z:1.05 acc:1.07 inst:2.43 dt:13 timee:10000 pComp:0.41 iComp:0.38 dComp:0.00 FF:-0.03 PID:0.79
+No roots in between range
+45.97 5776.28
+4333 x:0.05 y:0.20 z:1.06 acc:1.08 inst:2.44 dt:14 timee:10000 pComp:0.41 iComp:0.38 dComp:0.00 FF:-0.03 PID:0.79
+No roots in between range
+47.95 6675.47
+4346 x:0.05 y:0.20 z:1.06 acc:1.08 inst:2.46 dt:13 timee:10000 pComp:0.41 iComp:0.39 dComp:0.00 FF:-0.03 PID:0.80
+No roots in between range
+50.95 6683.45
+4359 x:0.05 y:0.18 z:1.07 acc:1.08 inst:2.48 dt:13 timee:10000 pComp:0.42 iComp:0.39 dComp:0.00 FF:-0.03 PID:0.81
+No roots in between range
+53.45 5796.16
+4373 x:0.05 y:0.18 z:1.07 acc:1.08 inst:2.50 dt:14 timee:10000 pComp:0.42 iComp:0.40 dComp:0.00 FF:-0.03 PID:0.83
+No roots in between range
+56.78 6698.72
+4386 x:0.14 y:0.22 z:1.09 acc:1.12 inst:2.51 dt:13 timee:10000 pComp:0.42 iComp:0.41 dComp:-0.00 FF:-0.03 PID:0.82
+No roots in between range
+56.11 6696.91
+4399 x:0.14 y:0.22 z:1.09 acc:1.12 inst:2.53 dt:13 timee:10000 pComp:0.42 iComp:0.41 dComp:0.00 FF:-0.03 PID:0.84
+No roots in between range
+60.01 6707.01
+4412 x:0.18 y:0.25 z:1.10 acc:1.14 inst:2.55 dt:13 timee:10000 pComp:0.42 iComp:0.42 dComp:-0.00 FF:-0.03 PID:0.84
+No roots in between range
+60.95 5815.48
+4426 x:0.18 y:0.25 z:1.10 acc:1.14 inst:2.57 dt:14 timee:10000 pComp:0.43 iComp:0.42 dComp:0.00 FF:-0.03 PID:0.85
+No roots in between range
+65.02 6719.71
+4439 x:0.13 y:0.21 z:1.08 acc:1.11 inst:2.59 dt:13 timee:10000 pComp:0.44 iComp:0.43 dComp:0.00 FF:-0.03 PID:0.88
+No roots in between range
+72.63 6738.87
+4452 x:0.13 y:0.21 z:1.08 acc:1.11 inst:2.60 dt:13 timee:10000 pComp:0.45 iComp:0.43 dComp:0.00 FF:-0.03 PID:0.88
+No roots in between range
+75.60 5852.29
+4466 x:0.10 y:0.20 z:1.07 acc:1.09 inst:2.62 dt:14 timee:10000 pComp:0.46 iComp:0.44 dComp:0.00 FF:-0.03 PID:0.90
+No roots in between range
+81.47 6760.54
+4479 x:0.09 y:0.19 z:1.07 acc:1.09 inst:2.64 dt:13 timee:10000 pComp:0.47 iComp:0.45 dComp:0.00 FF:-0.03 PID:0.91
+No roots in between range
+86.66 6773.08
+4492 x:0.09 y:0.19 z:1.07 acc:1.09 inst:2.66 dt:13 timee:10000 pComp:0.47 iComp:0.4en range
+90.88 5889.29
+4506 x:0.08 y:0.19 z:1.07 acc:1.09 inst:2.67 dt:14 timee:10000 pComp:0.47 iComp:0.46 dComp:0.00 FF:-0.03 PID:0.94
+No roots in between range
+95.11 7919.73
+4518 x:0.08 5 dComp:0.00 FF:-0.03 PID:0.92
+No roots in betwe0 pComp:0.48 iComp:0.47 dComp:0.00 FF:-0.03 PID:0.95
+No roots in between range
+99.74 5910.18
+4532 x:0.09 y:0.20 z:1.07 acc:1.09 inst:2.71 dt:14 timee:10000 pComp:0.49 iComp:0.47 dComp:0.00 FF:-0.03 PID:0.96
+No roots in between range
+105.13 6816.62
+4545 x:0.09 y:0.20 z:1.07 acc:1.09 inst:2.73 dt:13 timee:10000 pComp:0.49 iComp:0.48 dComp:0.00 FF:-0.03 PID:0.97
+No roots in between range
+110.42 5934.93
+4559 x:0.10 y:0.20 z:1.0y:0.19 z:1.07 acc:1.09 inst:2.69 dt:12 timee:10007 acc:1.09 inst:2.75 dt:14 timee:10000 pComp:0.50 iComp:0.49 dComp:0.00 FF:-0.03 PID:0.98
+No roots in between range
+115.78 7967.64
+4571 x:0.10 y:0.20 z:1.07 acc:1.09 inst:2.76 dt:12 timee:10000 pComp:0.50 iComp:0.49 dComp:0.00 FF:-0.03 PID:0.99
+No roots in between range
+121.17 5238.31
+4586 x:0.11 y:0.21 z:1.06 acc:1.09 inst:2.78 dt:15 timee:10000 pComp:0.51 iComp:0.50 dComp:0.00 FF:-0.03 PID:1.01
+No roots in between range
+129.25 7998.08
+4598 x:0.11 y:0.21 z:1.06 acc:1.09 inst:2.80 dt:12 timee:10000 pComp:0.51 iComp:0.50 dComp:0.00 FF:-0.03 PID:1.02
+No roots in between range
+134.82 5990.06
+4612 x:0.11 y:0.21 z:1.05 acc:1.08 inst:2.82 dt:14 timee:10000 pComp:0.52 iComp:0.51 dComp:0.00 FF:-0.03 PID:1.04
+No roots in between range
+144.50 6905.33
+4625 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.83 dt:13 timee:10000 pComp:0.53 iComp:0.52 dComp:0.00 FF:-0.03 PID:1.05
+No roots in between range
+149.95 6023.37
+4639 x:0.09 y:0.20 z:1.06 acc:1.08 inst:2.85 dt:14 timee:10000 pComp:0.53 iComp:0.53 dComp:0.00 FF:-0.03 PID:1.06
+No roots in between range
+157.84 6934.41
+4652 x:0.10 y:0.19 z:1.06 acc:1.08 inst:2.87 dt:13 timee:10000 pComp:0.54 iComp:0.53 dComp:0.00 FF:-0.03 PID:1.07
+No roots in between range
+164.62 6949.00
+4665 x:0.10 y:0.19 z:1.06 acc:1.08 inst:2.89 dt:13 timee:10000 pComp:0.54 iComp:0.54 dComp:0.00 FF:-0.03 PID:1.08
+No roots in between range
+172.49 6071.98
+4679 x:0.11 y:0.19 z:1.07 acc:1.09 inst:2.91 dt:14 timee:10000 pComp:0.54 iComp:0.55 dComp:0.00 FF:-0.03 PID:1.09
+No roots in between range
+179.69 6981.15
+4692 x:0.11 y:0.19 z:1.07 acc:1.09 inst:2.92 dt:13 timee:10000 pComp:0.55 iComp:0.55 dComp:0.00 FF:-0.03 PID:1.11
+No roots in between range
+188.30 6999.31
+4705 x:0.10 y:0.19 z:1.06 acc:1.08 inst:2.94 dt:13 timee:10000 pComp:0.56 iComp:0.56 dComp:0.00 FF:-0.03 PID:1.12
+No roots in between range
+199.59 6129.08
+4719 x:0.10 y:0.19 z:1.06 acc:1.08 inst:2.96 dt:14 timee:10000 pComp:0.56 iComp:0.57 dComp:0.00 FF:-0.03 PID:1.14
+No roots in between range
+208.86 7042.20
+4732 x:0.08 y:0.19 z:1.06 acc:1.08 inst:2.98 dt:13 timee:10000 pComp:0.57 iComp:0.58 dComp:0.00 FF:-0.03 PID:1.15
+No roots in between range
+217.42 7059.82
+4745 x:0.12 y:0.18 z:1.08 acc:1.10 inst:2.99 dt:13 timee:10000 pComp:0.57 iComp:0.58 dComp:-0.00 FF:-0.03 PID:1.15
+No roots in between range
+221.69 6174.68
+4759 x:0.12 y:0.18 z:1.08 acc:1.10 inst:3.01 dt:14 timee:10000 pComp:0.57 iComp:0.59 dComp:0.00 FF:-0.03 PID:1.17
+No roots in between range
+233.61 7092.87
+4772 x:0.08 y:0.20 z:1.07 acc:1.09 inst:3.03 dt:13 timee:10000 pComp:0.58 iComp:0.60 dComp:0.00 FF:-0.03 PID:1.18
+No roots in between range
+247.31 7120.60
+4785 x:0.08 y:0.20 z:1.07 acc:1.09 inst:3.05 dt:13 timee:10000 pComp:0.59 iComp:0.61 dComp:0.00 FF:-0.03 PID:1.20
+No roots in between range
+257.55 6247.28
+4799 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.07 dt:14 timee:10000 pComp:0.59 iComp:0.62 dComp:0.00 FF:-0.03 PID:1.21
+No roots in between range
+270.93 7167.85
+4812 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.08 dt:13 timee:10000 pComp:0.60 iComp:0.62 dComp:0.00 FF:-0.03 PID:1.22
+No roots in between range
+282.54 7190.83
+4825 x:0.11 y:0.19 z:1.06 acc:1.08 inst:3.10 dt:13 timee:10000 pComp:0.60 iComp:0.63 dComp:0.00 FF:-0.03 PID:1.24
+No roots in between range
+295.85 7217.02
+4838 x:0.11 y:0.19 z:1.06 acc:1.08 inst:3.12 dt:13 timee:10000 pComp:0.61 iComp:0.64 dComp:0.00 FF:-0.03 PID:1.25
+No roots in between range
+308.41 6347.69
+4852 x:0.06 y:0.13 z:1.05 acc:1.06 inst:3.14 dt:14 timee:10000 pComp:0.62 iComp:0.65 dComp:0.00 FF:-0.03 PID:1.27
+No roots in between range
+330.50 7284.42
+4865 x:0.06 y:0.13 z:1.05 acc:1.06 inst:3.15 dt:13 timee:10000 pComp:0.63 iComp:0.66 dComp:0.00 FF:-0.03 PID:1.28
+No roots in between range
+343.05 7308.57
+4878 x:0.03 y:0.12 z:1.04 acc:1.05 inst:3.17 dt:13 timee:10000 pComp:0.64 iComp:0.66 dComp:0.00 FF:-0.03 PID:1.30
+No roots in between range
+362.88 6452.58
+4892 x:0.06 y:0.18 z:1.04 acc:1.05 inst:3.19 dt:14 timee:10000 pComp:0.64 iComp:0.67 dComp:0.00 FF:-0.03 PID:1.32
+No roots in between range
+377.69 7374.55
+4905 x:0.06 y:0.18 z:1.04 acc:1.05 inst:3.21 dt:13 timee:10000 pComp:0.65 iComp:0.68 dComp:0.00 FF:-0.03 PID:1.33
+No roots in between range
+393.68 7404.72
+4918 x:0.06 y:0.19 z:1.04 acc:1.06 inst:3.22 dt:13 timee:10000 pComp:0.65 iComp:0.69 dComp:0.00 FF:-0.03 PID:1.34
+No roots in between range
+409.10 6539.77
+4932 x:0.06 y:0.19 z:1.04 acc:1.06 inst:3.24 dt:14 timee:10000 pComp:0.66 iComp:0.70 dComp:0.00 FF:-0.03 PID:1.36
+No roots in between range
+427.65 6574.36
+4946 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.26 dt:14 timee:10000 pComp:0.66 iComp:0.71 dComp:0.00 FF:-0.03 PID:1.36
+No roots in between range
+438.07 8614.11
+4958 x:0.06 y:0.19 z:1.05 acc:1.07 inst:3.28 dt:12 timee:10000 pComp:0.66 iComp:0.72 dComp:0.00 FF:-0.03 PID:1.38
+No roots in between range
+456.35 5906.32
+4973 x:0.07 y:0.20 z:1.07 acc:1.09 inst:3.30 dt:15 timee:10000 pComp:0.66 iComp:0.73 dComp:0.00 FF:-0.03 PID:1.39
+No roots in between range
+469.07 8671.28
+4985 x:0.07 y:0.20 z:1.07 acc:1.09 inst:3.31 dt:12 timee:10000 pComp:0.67 iComp:0.73 dComp:0.00 FF:-0.03 PID:1.40
+No roots in between range
+488.24 6685.95
+4999 x:0.07 y:0.19 z:1.06 acc:1.08 inst:3.33 dt:14 timee:10000 pComp:0.67 iComp:0.74 dComp:0.00 FF:-0.03 PID:1.42
+No roots in between range
+514.27 6733.32
+5013 x:0.07 y:0.20 z:1.06 acc:1.09 inst:3.35 dt:14 timee:10000 pComp:0.68 iComp:0.75 dComp:0.00 FF:-0.03 PID:1.43
+No roots in between range
+533.58 7662.11
+5026 x:0.07 y:0.20 z:1.06 acc:1.09 inst:3.37 dt:13 timee:10000 pComp:0.68 iComp:0.76 dComp:0.00 FF:-0.03 PID:1.45
+No roots in between range
+555.25 7701.12
+5039 x:0.06 y:0.20 z:1.06 acc:1.08 inst:3.39 dt:13 timee:10000 pComp:0.69 iComp:0.77 dComp:0.00 FF:-0.03 PID:1.46
+No roots in between range
+578.71 7743.12
+5052 x:0.06 y:0.20 z:1.06 acc:1.08 inst:3.40 dt:13 timee:10000 pComp:0.70 iComp:0.78 dComp:0.00 FF:-0.03 PID:1.48
+No roots in between range
+601.26 6889.39
+5066 x:0.05 y:0.19 z:1.06 acc:1.08 inst:3.42 dt:14 timee:10000 pComp:0.70 iComp:0.79 dComp:0.00 FF:-0.03 PID:1.50
+No roots in between range
+631.34 7836.55
+5079 x:0.05 y:0.19 z:1.06 acc:1.08 inst:3.44 dt:13 timee:10000 pComp:0.71 iComp:0.80 dComp:0.00 FF:-0.03 PID:1.51
+No roots in between range
+655.10 7878.37
+5092 x:0.07 y:0.24 z:1.06 acc:1.09 inst:3.46 dt:13 timee:10000 pComp:0.71 iComp:0.81 dComp:0.00 FF:-0.03 PID:1.52
+No roots in between range
+669.07 7008.98
+5106 x:0.07 y:0.24 z:1.06 acc:1.09 inst:3.47 dt:14 timee:10000 pComp:0.71 iComp:0.82 dComp:0.00 FF:-0.03 PID:1.53
+No roots in between range
+699.36 7955.80
+5119 x:0.06 y:0.22 z:1.06 acc:1.09 inst:3.49 dt:13 timee:10000 pComp:0.72 iComp:0.83 dComp:0.00 FF:-0.03 PID:1.55
+No roots in between range
+730.20 8009.39
+5132 x:0.06 y:0.22 z:1.06 acc:1.09 inst:3.51 dt:13 timee:10000 pComp:0.73 iComp:0.84 dComp:0.00 FF:-0.03 PID:1.56
+No roots in between range
+757.31 7162.37
+5146 x:0.07 y:0.20 z:1.07 acc:1.09 inst:3.53 dt:14 timee:10000 pComp:0.73 iComp:0.85 dComp:0.00 FF:-0.03 PID:1.58
+No roots in between range
+787.76 8108.66
+5159 x:0.09 y:0.18 z:1.07 acc:1.09 inst:3.55 dt:13 timee:10000 pComp:0.74 iComp:0.86 dComp:0.00 FF:-0.03 PID:1.59
+No roots in between range
+813.97 8153.57
+5172 x:0.09 y:0.18 z:1.07 acc:1.09 inst:3.56 dt:13 timee:10000 pComp:0.74 iComp:0.87 dComp:0.00 FF:-0.03 PID:1.61
+No roots in between range
+845.43 7313.35
+5186 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.58 dt:14 timee:10000 pComp:0.75 iComp:0.88 dComp:0.00 FF:-0.03 PID:1.63
+No roots in between range
+883.93 8272.58
+5199 x:0.08 y:0.19 z:1.07 acc:1.09 inst:3.60 dt:13 timee:10000 pComp:0.75 iComp:0.89 dComp:0.00 FF:-0.03 PID:1.64
+No roots in between range
+916.05 8326.84
+5212 x:0.10 y:0.18 z:1.06 acc:1.08 inst:3.62 dt:13 timee:10000 pComp:0.76 iComp:0.90 dComp:0.00 FF:-0.03 PID:1.66
+No roots in between range
+952.88 7494.91
+5226 x:0.10 y:0.18 z:1.06 acc:1.08 inst:3.63 dt:14 timee:10000 pComp:0.77 iComp:0.91 dComp:0.00 FF:-0.03 PID:1.67
+No roots in between range
+990.27 8451.37
+5239 x:0.09 y:0.18 z:1.06 acc:1.08 inst:3.65 dt:13 timee:10000 pComp:0.77 iComp:0.92 dComp:0.00 FF:-0.03 PID:1.69
+No roots in between range
+1030.73 8518.78
+5252 x:0.09 y:0.18 z:1.06 acc:1.08 inst:3.67 dt:13 timee:10000 pComp:0.78 iComp:0.93 dComp:0.00 FF:-0.03 PID:1.70
+No roots in between range
+1067.63 8579.99
+5265 x:0.07 y:0.19 z:1.06 acc:1.08 inst:3.69 dt:13 timee:10000 pComp:0.78 iComp:0.94 dComp:0.00 FF:-0.03 PID:1.72
+No roots in between range
+1111.33 7037.18
+5280 x:0.08 y:0.19 z:1.05 acc:1.07 inst:3.71 dt:15 timee:10000 pComp:0.79 iComp:0.95 dComp:0.00 FF:-0.03 PID:1.74
+No roots in between range
+1161.75 9861.62
+5292 x:0.08 y:0.19 z:1.05 acc:1.07 inst:3.72 dt:12 timee:10000 pComp:0.80 iComp:0.96 dComp:0.00 FF:-0.03 PID:1.76
+No roots in between range
+1199.55 7903.06
+5306 x:0.08 y:0.20 z:1.11 acc:1.13 inst:3.74 dt:14 timee:10000 pComp:0.78 iComp:0.97 dComp:-0.00 FF:-0.03 PID:1.75
+No roots in between range
+1188.62 7885.12
+5320 x:0.08 y:0.20 z:1.11 acc:1.13 inst:3.76 dt:14 timee:10000 pComp:0.79 iComp:0.98 dComp:0.00 FF:-0.03 PID:1.77
+No roots in between range
+1245.51 8871.82
+5333 x:0.07 y:0.21 z:1.13 acc:1.15 inst:3.78 dt:13 timee:10000 pComp:0.79 iComp:0.99 dComp:-0.00 FF:-0.03 PID:1.78
+No roots in between range
+1266.46 8905.85
+5346 x:0.07 y:0.21 z:1.13 acc:1.15 inst:3.79 dt:13 timee:10000 pComp:0.79 iComp:1.00 dComp:0.00 FF:-0.03 PID:1.80
+No roots in between range
+1315.94 8092.14
+5360 x:0.08 y:0.19 z:1.10 acc:1.12 inst:3.81 dt:14 timee:10000 pComp:0.81 iComp:1.01 dComp:0.00 FF:-0.03 PID:1.82
+No roots in between range
+1393.02 9110.29
+5373 x:0.08 y:0.19 z:1.10 acc:1.12 inst:3.83 dt:13 timee:10000 pComp:0.81 iComp:1.02 dComp:0.00 FF:-0.03 PID:1.84
+No roots in between range
+1436.33 8285.88
+5387 x:0.10 y:0.19 z:1.08 acc:1.10 inst:3.85 dt:14 timee:10000 pComp:0.82 iComp:1.03 dComp:0.00 FF:-0.03 PID:1.86
+No roots in between range
+1513.66 8409.39
+5401 x:0.10 y:0.18 z:1.08 acc:1.10 inst:3.87 dt:14 timee:10000 pComp:0.83 iComp:1.05 dComp:0.00 FF:-0.03 PID:1.88
+No roots in between range
+1576.17 9402.61
+5414 x:0.10 y:0.18 z:1.08 acc:1.10 inst:3.89 dt:13 timee:10000 pComp:0.84 iComp:1.06 dComp:0.00 FF:-0.03 PID:1.89
+No roots in between range
+1628.60 9485.60
+5427 x:0.10 y:0.17 z:1.05 acc:1.07 inst:3.90 dt:13 timee:10000 pComp:0.85 iComp:1.07 dComp:0.00 FF:-0.03 PID:1.92
+No roots in between range
+1720.32 8736.24
+5441 x:0.10 y:0.17 z:1.05 acc:1.07 inst:3.92 dt:14 timee:10000 pComp:0.86 iComp:1.08 dComp:0.00 FF:-0.03 PID:1.94
+No roots in between range
+1776.50 9718.21
+5454 x:0.10 y:0.17 z:1.05 acc:1.07 inst:3.94 dt:13 timee:10000 pComp:0.86 iComp:1.09 dComp:0.00 FF:-0.03 PID:1.95
+No roots in between range
+1841.91 9820.46
+5467 x:0.10 y:0.17 z:1.05 acc:1.07 inst:3.96 dt:13 timee:10000 pComp:0.87 iComp:1.10 dComp:0.00 FF:-0.03 PID:1.97
+No roots in between range
+1903.67 9916.64
+5480 x:0.10 y:0.20 z:1.05 acc:1.07 inst:3.97 dt:13 timee:10000 pComp:0.87 iComp:1.11 dComp:0.00 FF:-0.03 PID:1.98
+No roots in between range
+1960.35 9110.73
+5494 x:0.10 y:0.20 z:1.05 acc:1.07 inst:3.99 dt:14 timee:10000 pComp:0.88 iComp:1.13 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2020.94 9204.48
+5508 x:0.10 y:0.21 z:1.05 acc:1.08 inst:4.01 dt:14 timee:10000 pComp:0.88 iComp:1.14 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.01 10098.44
+5521 x:0.10 y:0.21 z:1.06 acc:1.09 inst:4.03 dt:13 timee:10000 pComp:0.88 iComp:1.15 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.09 9204.64
+5535 x:0.10 y:0.21 z:1.06 acc:1.09 inst:4.05 dt:14 timee:10000 pComp:0.89 iComp:1.16 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.17 10098.59
+5548 x:0.06 y:0.19 z:1.07 acc:1.09 inst:4.06 dt:13 timee:10000 pComp:0.89 iComp:1.17 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.25 10098.67
+5561 x:0.06 y:0.19 z:1.07 acc:1.09 inst:4.08 dt:13 timee:10000 pComp:0.90 iComp:1.18 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.33 9204.87
+5575 x:0.07 y:0.18 z:1.07 acc:1.09 inst:4.10 dt:14 timee:10000 pComp:0.90 iComp:1.20 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.40 10098.82
+5588 x:0.07 y:0.18 z:1.07 acc:1.09 inst:4.12 dt:13 timee:10000 pComp:0.91 iComp:1.21 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.48 9205.03
+5602 x:0.08 y:0.19 z:1.07 acc:1.09 inst:4.14 dt:14 timee:10000 pComp:0.91 iComp:1.22 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.57 9205.11
+5616 x:0.08 y:0.19 z:1.07 acc:1.09 inst:4.15 dt:14 timee:10000 pComp:0.92 iComp:1.23 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.64 10099.07
+5629 x:0.07 y:0.18 z:1.07 acc:1.09 inst:4.17 dt:13 timee:10000 pComp:0.92 iComp:1.25 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.72 10099.14
+5642 x:0.06 y:0.19 z:1.07 acc:1.09 inst:4.19 dt:13 timee:10000 pComp:0.93 iComp:1.26 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.80 9205.35
+5656 x:0.06 y:0.19 z:1.07 acc:1.09 inst:4.21 dt:14 timee:10000 pComp:0.93 iComp:1.27 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.89 9205.43
+5670 x:0.05 y:0.17 z:1.14 acc:1.16 inst:4.23 dt:14 timee:10000 pComp:0.92 iComp:1.28 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2021.97 10099.39
+5683 x:0.05 y:0.17 z:1.14 acc:1.16 inst:4.24 dt:13 timee:10000 pComp:0.93 iComp:1.30 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.05 9205.59
+5697 x:0.08 y:0.19 z:1.10 acc:1.12 inst:4.26 dt:14 timee:10000 pComp:0.94 iComp:1.31 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.13 10099.55
+5710 x:0.08 y:0.19 z:1.10 acc:1.12 inst:4.28 dt:13 timee:10000 pComp:0.95 iComp:1.32 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.21 10099.63
+5723 x:0.09 y:0.19 z:1.07 acc:1.09 inst:4.30 dt:13 timee:10000 pComp:0.96 iComp:1.33 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.29 10099.71
+5736 x:0.09 y:0.19 z:1.07 acc:1.09 inst:4.31 dt:13 timee:10000 pComp:0.97 iComp:1.35 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.38 8484.79
+5751 x:0.09 y:0.18 z:1.06 acc:1.08 inst:4.33 dt:15 timee:10000 pComp:0.98 iComp:1.36 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.46 10099.88
+5764 x:0.05 y:0.23 z:1.12 acc:1.14 inst:4.35 dt:13 timee:10000 pComp:0.96 iComp:1.37 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.54 10099.96
+5777 x:0.05 y:0.23 z:1.12 acc:1.14 inst:4.37 dt:13 timee:10000 pComp:0.97 iComp:1.39 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.63 9206.17
+5791 x:0.05 y:0.24 z:1.14 acc:1.17 inst:4.39 dt:14 timee:10000 pComp:0.97 iComp:1.40 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.71 10100.13
+5804 x:0.05 y:0.24 z:1.14 acc:1.17 inst:4.41 dt:13 timee:10000 pComp:0.97 iComp:1.41 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.80 9206.34
+5818 x:0.07 y:0.23 z:1.09 acc:1.12 inst:4.42 dt:14 timee:10000 pComp:0.99 iComp:1.43 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.89 9206.43
+5832 x:0.07 y:0.23 z:1.09 acc:1.12 inst:4.44 dt:14 timee:10000 pComp:1.00 iComp:1.44 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2022.97 10100.39
+5845 x:0.08 y:0.23 z:1.08 acc:1.10 inst:4.46 dt:13 timee:10000 pComp:1.01 iComp:1.45 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.05 10100.47
+5858 x:0.08 y:0.23 z:1.08 acc:1.10 inst:4.48 dt:13 timee:10000 pComp:1.01 iComp:1.47 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.14 9206.68
+5872 x:0.07 y:0.22 z:1.07 acc:1.09 inst:4.50 dt:14 timee:10000 pComp:1.02 iComp:1.48 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.22 10100.64
+5885 x:0.08 y:0.22 z:1.05 acc:1.08 inst:4.51 dt:13 timee:10000 pComp:1.03 iComp:1.49 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.31 10100.73
+5898 x:0.08 y:0.22 z:1.05 acc:1.08 inst:4.53 dt:13 timee:10000 pComp:1.03 iComp:1.51 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.40 8485.81
+5913 x:0.09 y:0.22 z:1.06 acc:1.09 inst:4.55 dt:15 timee:10000 pComp:1.04 iComp:1.52 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.49 10100.91
+5926 x:0.09 y:0.22 z:1.06 acc:1.09 inst:4.57 dt:13 timee:10000 pComp:1.04 iComp:1.54 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.57 10100.99
+5939 x:0.10 y:0.21 z:1.06 acc:1.08 inst:4.59 dt:13 timee:10000 pComp:1.05 iComp:1.55 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.66 9207.21
+5953 x:0.10 y:0.21 z:1.06 acc:1.08 inst:4.60 dt:14 timee:10000 pComp:1.06 iComp:1.57 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.75 10101.17
+5966 x:0.10 y:0.20 z:1.05 acc:1.08 inst:4.62 dt:13 timee:10000 pComp:1.06 iComp:1.58 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.83 10101.26
+5979 x:0.10 y:0.20 z:1.05 acc:1.08 inst:4.64 dt:13 timee:10000 pComp:1.07 iComp:1.59 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2023.93 8486.34
+5994 x:0.09 y:0.19 z:1.04 acc:1.06 inst:4.66 dt:15 timee:10000 pComp:1.08 iComp:1.61 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.02 10101.44
+6007 x:0.09 y:0.17 z:1.05 acc:1.07 inst:4.68 dt:13 timee:10000 pComp:1.08 iComp:1.62 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.11 10101.53
+6020 x:0.09 y:0.17 z:1.05 acc:1.07 inst:4.69 dt:13 timee:10000 pComp:1.09 iComp:1.64 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.19 10101.61
+6033 x:0.08 y:0.18 z:1.05 acc:1.07 inst:4.71 dt:13 timee:10000 pComp:1.09 iComp:1.65 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.29 9207.83
+6047 x:0.08 y:0.18 z:1.05 acc:1.07 inst:4.73 dt:14 timee:10000 pComp:1.10 iComp:1.67 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.38 9207.92
+6061 x:0.08 y:0.20 z:1.05 acc:1.07 inst:4.75 dt:14 timee:10000 pComp:1.10 iComp:1.68 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.47 10101.89
+6074 x:0.08 y:0.20 z:1.05 acc:1.07 inst:4.77 dt:13 timee:10000 pComp:1.11 iComp:1.70 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.56 9208.11
+6088 x:0.08 y:0.20 z:1.06 acc:1.08 inst:4.78 dt:14 timee:10000 pComp:1.11 iComp:1.71 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.65 10102.07
+6101 x:0.08 y:0.20 z:1.06 acc:1.08 inst:4.80 dt:13 timee:10000 pComp:1.12 iComp:1.73 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.74 10102.16
+6114 x:0.08 y:0.20 z:1.06 acc:1.08 inst:4.82 dt:13 timee:10000 pComp:1.12 iComp:1.74 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.84 9208.38
+6128 x:0.04 y:0.17 z:1.12 acc:1.13 inst:4.84 dt:14 timee:10000 pComp:1.11 iComp:1.76 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2024.93 10102.35
+6141 x:0.04 y:0.17 z:1.12 acc:1.13 inst:4.85 dt:13 timee:10000 pComp:1.12 iComp:1.77 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.02 9208.57
+6155 x:0.06 y:0.20 z:1.08 acc:1.10 inst:4.87 dt:14 timee:10000 pComp:1.13 iComp:1.79 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.12 9208.66
+6169 x:0.06 y:0.20 z:1.08 acc:1.10 inst:4.89 dt:14 timee:10000 pComp:1.14 iComp:1.80 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.21 10102.63
+6182 x:0.08 y:0.20 z:1.07 acc:1.09 inst:4.91 dt:13 timee:10000 pComp:1.15 iComp:1.82 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.30 10102.72
+6195 x:0.08 y:0.20 z:1.07 acc:1.09 inst:4.93 dt:13 timee:10000 pComp:1.15 iComp:1.83 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.40 9208.94
+6209 x:0.10 y:0.20 z:1.05 acc:1.08 inst:4.95 dt:14 timee:10000 pComp:1.16 iComp:1.85 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.49 10102.91
+6222 x:0.10 y:0.20 z:1.05 acc:1.08 inst:4.96 dt:13 timee:10000 pComp:1.17 iComp:1.86 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.59 9209.13
+6236 x:0.12 y:0.25 z:1.10 acc:1.13 inst:4.98 dt:14 timee:10000 pComp:1.15 iComp:1.88 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.69 9209.23
+6250 x:0.11 y:0.29 z:1.12 acc:1.17 inst:5.00 dt:14 timee:10000 pComp:1.15 iComp:1.90 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.78 10103.20
+6263 x:0.11 y:0.29 z:1.12 acc:1.17 inst:5.02 dt:13 timee:10000 pComp:1.16 iComp:1.91 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.88 10103.30
+6276 x:0.08 y:0.23 z:1.09 acc:1.12 inst:5.03 dt:13 timee:10000 pComp:1.17 iComp:1.93 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2025.97 10103.39
+6289 x:0.08 y:0.23 z:1.09 acc:1.12 inst:5.05 dt:13 timee:10000 pComp:1.18 iComp:1.94 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.08 8488.49
+6304 x:0.06 y:0.19 z:1.09 acc:1.10 inst:5.07 dt:15 timee:10000 pComp:1.19 iComp:1.96 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.17 10103.59
+6317 x:0.06 y:0.19 z:1.09 acc:1.10 inst:5.09 dt:13 timee:10000 pComp:1.20 iComp:1.97 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.26 10103.69
+6330 x:0.05 y:0.17 z:1.07 acc:1.09 inst:5.11 dt:13 timee:10000 pComp:1.21 iComp:1.99 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.37 9209.91
+6344 x:0.05 y:0.17 z:1.07 acc:1.09 inst:5.13 dt:14 timee:10000 pComp:1.21 iComp:2.01 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.46 10103.88
+6357 x:0.06 y:0.23 z:1.06 acc:1.09 inst:5.14 dt:13 timee:10000 pComp:1.22 iComp:2.02 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.56 9210.11
+6371 x:0.07 y:0.23 z:1.06 acc:1.08 inst:5.16 dt:14 timee:10000 pComp:1.22 iComp:2.04 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.67 9210.21
+6385 x:0.07 y:0.23 z:1.06 acc:1.08 inst:5.18 dt:14 timee:10000 pComp:1.23 iComp:2.06 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.76 10104.18
+6398 x:0.07 y:0.21 z:1.06 acc:1.08 inst:5.20 dt:13 timee:10000 pComp:1.23 iComp:2.07 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.86 10104.28
+6411 x:0.07 y:0.21 z:1.06 acc:1.08 inst:5.21 dt:13 timee:10000 pComp:1.24 iComp:2.09 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2026.96 9210.51
+6425 x:0.05 y:0.21 z:1.07 acc:1.09 inst:5.23 dt:14 timee:10000 pComp:1.24 iComp:2.11 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.06 10104.48
+6438 x:0.05 y:0.21 z:1.07 acc:1.09 inst:5.25 dt:13 timee:10000 pComp:1.25 iComp:2.12 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.16 9210.71
+6452 x:0.06 y:0.21 z:1.06 acc:1.08 inst:5.27 dt:14 timee:10000 pComp:1.26 iComp:2.14 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.26 10104.68
+6465 x:0.06 y:0.21 z:1.06 acc:1.08 inst:5.29 dt:13 timee:10000 pComp:1.26 iComp:2.16 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.37 9210.91
+6479 x:0.07 y:0.20 z:1.06 acc:1.08 inst:5.31 dt:14 timee:10000 pComp:1.27 iComp:2.17 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.46 10104.89
+6492 x:0.05 y:0.19 z:1.05 acc:1.07 inst:5.32 dt:13 timee:10000 pComp:1.27 iComp:2.19 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.57 9211.11
+6506 x:0.05 y:0.19 z:1.05 acc:1.07 inst:5.34 dt:14 timee:10000 pComp:1.28 iComp:2.21 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.67 10105.09
+6519 x:0.05 y:0.18 z:1.05 acc:1.07 inst:5.36 dt:13 timee:10000 pComp:1.29 iComp:2.23 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.77 10105.19
+6532 x:0.05 y:0.18 z:1.05 acc:1.07 inst:5.38 dt:13 timee:10000 pComp:1.29 iComp:2.24 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.88 9211.42
+6546 x:0.08 y:0.17 z:1.06 acc:1.08 inst:5.39 dt:14 timee:10000 pComp:1.29 iComp:2.26 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2027.98 9211.53
+6560 x:0.08 y:0.17 z:1.06 acc:1.08 inst:5.41 dt:14 timee:10000 pComp:1.30 iComp:2.28 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.08 10105.50
+6573 x:0.09 y:0.17 z:1.06 acc:1.08 inst:5.43 dt:13 timee:10000 pComp:1.31 iComp:2.30 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.18 10105.61
+6586 x:0.09 y:0.17 z:1.06 acc:1.08 inst:5.45 dt:13 timee:10000 pComp:1.31 iComp:2.31 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.29 9211.84
+6600 x:0.06 y:0.13 z:1.08 acc:1.09 inst:5.47 dt:14 timee:10000 pComp:1.31 iComp:2.33 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.39 10105.82
+6613 x:0.09 y:0.14 z:1.07 acc:1.08 inst:5.48 dt:13 timee:10000 pComp:1.32 iComp:2.35 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.50 10105.92
+6626 x:0.09 y:0.14 z:1.07 acc:1.08 inst:5.50 dt:13 timee:10000 pComp:1.33 iComp:2.37 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.61 8491.02
+6641 x:0.09 y:0.17 z:1.06 acc:1.08 inst:5.52 dt:15 timee:10000 pComp:1.33 iComp:2.39 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.71 10106.14
+6654 x:0.09 y:0.17 z:1.06 acc:1.08 inst:5.54 dt:13 timee:10000 pComp:1.34 iComp:2.40 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.82 10106.24
+6667 x:0.07 y:0.19 z:1.06 acc:1.08 inst:5.56 dt:13 timee:10000 pComp:1.34 iComp:2.42 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2028.93 9212.47
+6681 x:0.07 y:0.19 z:1.06 acc:1.08 inst:5.57 dt:14 timee:10000 pComp:1.35 iComp:2.44 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.03 10106.45
+6694 x:0.12 y:0.20 z:1.05 acc:1.08 inst:5.59 dt:13 timee:10000 pComp:1.35 iComp:2.46 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.13 10106.56
+6707 x:0.12 y:0.20 z:1.05 acc:1.08 inst:5.61 dt:13 timee:10000 pComp:1.36 iComp:2.47 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.25 8491.66
+6722 x:0.15 y:0.21 z:1.06 acc:1.09 inst:5.63 dt:15 timee:10000 pComp:1.36 iComp:2.49 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.36 10106.78
+6735 x:0.11 y:0.19 z:1.06 acc:1.09 inst:5.65 dt:13 timee:10000 pComp:1.37 iComp:2.51 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.46 10106.88
+6748 x:0.11 y:0.19 z:1.06 acc:1.09 inst:5.66 dt:13 timee:10000 pComp:1.37 iComp:2.53 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.58 9213.12
+6762 x:0.09 y:0.18 z:1.07 acc:1.09 inst:5.68 dt:14 timee:10000 pComp:1.38 iComp:2.55 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.68 10107.10
+6775 x:0.09 y:0.18 z:1.07 acc:1.09 inst:5.70 dt:13 timee:10000 pComp:1.38 iComp:2.57 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.79 9213.34
+6789 x:0.07 y:0.19 z:1.07 acc:1.09 inst:5.72 dt:14 timee:10000 pComp:1.39 iComp:2.59 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2029.90 10107.32
+6802 x:0.07 y:0.19 z:1.07 acc:1.09 inst:5.74 dt:13 timee:10000 pComp:1.39 iComp:2.60 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.01 9213.56
+6816 x:0.05 y:0.19 z:1.07 acc:1.09 inst:5.75 dt:14 timee:10000 pComp:1.40 iComp:2.62 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.12 10107.54
+6829 x:0.05 y:0.19 z:1.07 acc:1.09 inst:5.77 dt:13 timee:10000 pComp:1.40 iComp:2.64 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.23 10107.65
+6842 x:0.06 y:0.18 z:1.06 acc:1.07 inst:5.79 dt:13 timee:10000 pComp:1.41 iComp:2.66 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.34 9213.89
+6856 x:0.06 y:0.18 z:1.06 acc:1.07 inst:5.81 dt:14 timee:10000 pComp:1.42 iComp:2.68 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.46 9214.00
+6870 x:0.07 y:0.19 z:1.05 acc:1.07 inst:5.83 dt:14 timee:10000 pComp:1.43 iComp:2.70 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.57 10107.99
+6883 x:0.07 y:0.20 z:1.06 acc:1.08 inst:5.84 dt:13 timee:10000 pComp:1.43 iComp:2.72 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.68 9214.23
+6897 x:0.07 y:0.20 z:1.06 acc:1.08 inst:5.86 dt:14 timee:10000 pComp:1.43 iComp:2.74 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.79 10108.21
+6910 x:0.09 y:0.19 z:1.08 acc:1.10 inst:5.88 dt:13 timee:10000 pComp:1.43 iComp:2.76 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2030.90 10108.32
+6923 x:0.09 y:0.19 z:1.08 acc:1.10 inst:5.90 dt:13 timee:10000 pComp:1.44 iComp:2.78 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.02 9214.56
+6937 x:0.11 y:0.19 z:1.08 acc:1.10 inst:5.92 dt:14 timee:10000 pComp:1.45 iComp:2.80 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.13 10108.55
+6950 x:0.11 y:0.19 z:1.08 acc:1.10 inst:5.93 dt:13 timee:10000 pComp:1.45 iComp:2.82 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.25 9214.79
+6964 x:0.10 y:0.18 z:1.06 acc:1.08 inst:5.95 dt:14 timee:10000 pComp:1.46 iComp:2.84 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.36 9214.91
+6978 x:0.10 y:0.18 z:1.06 acc:1.08 inst:5.97 dt:14 timee:10000 pComp:1.47 iComp:2.86 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.47 10108.90
+6991 x:0.08 y:0.19 z:1.06 acc:1.08 inst:5.99 dt:13 timee:10000 pComp:1.47 iComp:2.88 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.58 10109.01
+7004 x:0.08 y:0.19 z:1.06 acc:1.08 inst:6.01 dt:13 timee:10000 pComp:1.48 iComp:2.89 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.70 9215.25
+7018 x:0.08 y:0.21 z:1.06 acc:1.09 inst:6.02 dt:14 timee:10000 pComp:1.48 iComp:2.92 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.82 10109.24
+7031 x:0.06 y:0.20 z:1.07 acc:1.09 inst:6.04 dt:13 timee:10000 pComp:1.48 iComp:2.93 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2031.93 10109.35
+7044 x:0.06 y:0.20 z:1.07 acc:1.09 inst:6.06 dt:13 timee:10000 pComp:1.49 iComp:2.95 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.05 9215.59
+7058 x:0.08 y:0.20 z:1.07 acc:1.10 inst:6.08 dt:14 timee:10000 pComp:1.49 iComp:2.98 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.17 9215.71
+7072 x:0.08 y:0.20 z:1.07 acc:1.10 inst:6.10 dt:14 timee:10000 pComp:1.50 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.28 10109.70
+7085 x:0.08 y:0.20 z:1.07 acc:1.09 inst:6.11 dt:13 timee:10000 pComp:1.51 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.40 10109.82
+7098 x:0.08 y:0.20 z:1.07 acc:1.09 inst:6.13 dt:13 timee:10000 pComp:1.51 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.53 8494.94
+7113 x:0.05 y:0.20 z:1.06 acc:1.08 inst:6.15 dt:15 timee:10000 pComp:1.52 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.63 11236.60
+7125 x:0.05 y:0.20 z:1.06 acc:1.08 inst:6.17 dt:12 timee:10000 pComp:1.52 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.75 9216.30
+7139 x:0.11 y:0.20 z:1.08 acc:1.10 inst:6.19 dt:14 timee:10000 pComp:1.53 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.88 9216.42
+7153 x:0.12 y:0.21 z:1.06 acc:1.09 inst:6.20 dt:14 timee:10000 pComp:1.53 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2032.99 10110.41
+7166 x:0.12 y:0.21 z:1.06 acc:1.09 inst:6.22 dt:13 timee:10000 pComp:1.54 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.11 10110.53
+7179 x:0.09 y:0.19 z:1.05 acc:1.07 inst:6.24 dt:13 timee:10000 pComp:1.55 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.23 9216.78
+7193 x:0.09 y:0.19 z:1.05 acc:1.07 inst:6.26 dt:14 timee:10000 pComp:1.55 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.36 9216.90
+7207 x:0.07 y:0.17 z:1.06 acc:1.08 inst:6.28 dt:14 timee:10000 pComp:1.56 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.46 11237.43
+7219 x:0.07 y:0.17 z:1.06 acc:1.08 inst:6.29 dt:12 timee:10000 pComp:1.56 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.60 8496.01
+7234 x:0.08 y:0.17 z:1.07 acc:1.08 inst:6.31 dt:15 timee:10000 pComp:1.57 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.71 10111.14
+7247 x:0.08 y:0.17 z:1.07 acc:1.08 inst:6.33 dt:13 timee:10000 pComp:1.57 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.83 10111.25
+7260 x:0.07 y:0.14 z:1.05 acc:1.06 inst:6.35 dt:13 timee:10000 pComp:1.59 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2033.96 9217.50
+7274 x:0.06 y:0.15 z:1.07 acc:1.08 inst:6.37 dt:14 timee:10000 pComp:1.59 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.08 10111.50
+7287 x:0.06 y:0.15 z:1.07 acc:1.08 inst:6.38 dt:13 timee:10000 pComp:1.59 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.20 9217.75
+7301 x:0.08 y:0.18 z:1.08 acc:1.09 inst:6.40 dt:14 timee:10000 pComp:1.59 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.32 10111.74
+7314 x:0.08 y:0.18 z:1.08 acc:1.09 inst:6.42 dt:13 timee:10000 pComp:1.60 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.45 9217.99
+7328 x:0.08 y:0.17 z:1.06 acc:1.08 inst:6.44 dt:14 timee:10000 pComp:1.61 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.57 10111.99
+7341 x:0.08 y:0.17 z:1.06 acc:1.08 inst:6.45 dt:13 timee:10000 pComp:1.61 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.69 10112.11
+7354 x:0.07 y:0.19 z:1.06 acc:1.08 inst:6.47 dt:13 timee:10000 pComp:1.62 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.82 9218.36
+7368 x:0.07 y:0.19 z:1.06 acc:1.08 inst:6.49 dt:14 timee:10000 pComp:1.62 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2034.95 9218.49
+7382 x:0.08 y:0.22 z:1.07 acc:1.10 inst:6.51 dt:14 timee:10000 pComp:1.62 iComp:3.00 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.07 10112.49
+7395 x:0.08 y:0.21 z:1.07 acc:1.09 inst:6.53 dt:13 timee:10000 pComp:1.63 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.20 9218.74
+7409 x:0.08 y:0.21 z:1.07 acc:1.09 inst:6.55 dt:14 timee:10000 pComp:1.64 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.32 10112.74
+7422 x:0.08 y:0.22 z:1.06 acc:1.08 inst:6.56 dt:13 timee:10000 pComp:1.64 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.44 10112.86
+7435 x:0.08 y:0.22 z:1.06 acc:1.08 inst:6.58 dt:13 timee:10000 pComp:1.65 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.58 8497.99
+7450 x:0.10 y:0.24 z:1.05 acc:1.08 inst:6.60 dt:15 timee:10000 pComp:1.66 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.69 11239.66
+7462 x:0.10 y:0.24 z:1.05 acc:1.08 inst:6.62 dt:12 timee:10000 pComp:1.66 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.82 9219.37
+7476 x:0.10 y:0.22 z:1.04 acc:1.07 inst:6.63 dt:14 timee:10000 pComp:1.67 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2035.96 9219.50
+7490 x:0.10 y:0.22 z:1.04 acc:1.07 inst:6.65 dt:14 timee:10000 pComp:1.67 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.08 10113.50
+7503 x:0.12 y:0.18 z:1.06 acc:1.08 inst:6.67 dt:13 timee:10000 pComp:1.68 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.20 10113.62
+7516 x:0.12 y:0.19 z:1.05 acc:1.07 inst:6.69 dt:13 timee:10000 pComp:1.68 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.33 9219.88
+7530 x:0.12 y:0.19 z:1.05 acc:1.07 inst:6.71 dt:14 timee:10000 pComp:1.69 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.47 9220.01
+7544 x:0.11 y:0.20 z:1.06 acc:1.08 inst:6.73 dt:14 timee:10000 pComp:1.69 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.59 10114.01
+7557 x:0.11 y:0.20 z:1.06 acc:1.08 inst:6.74 dt:13 timee:10000 pComp:1.70 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.72 10114.14
+7570 x:0.09 y:0.22 z:1.07 acc:1.09 inst:6.76 dt:13 timee:10000 pComp:1.70 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.85 9220.40
+7584 x:0.09 y:0.22 z:1.07 acc:1.09 inst:6.78 dt:14 timee:10000 pComp:1.71 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2036.98 10114.40
+7597 x:0.10 y:0.20 z:1.06 acc:1.08 inst:6.80 dt:13 timee:10000 pComp:1.71 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.10 10114.53
+7610 x:0.10 y:0.20 z:1.06 acc:1.08 inst:6.81 dt:13 timee:10000 pComp:1.72 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.25 8499.66
+7625 x:0.09 y:0.20 z:1.06 acc:1.08 inst:6.83 dt:15 timee:10000 pComp:1.73 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.38 10114.80
+7638 x:0.09 y:0.18 z:1.06 acc:1.08 inst:6.85 dt:13 timee:10000 pComp:1.73 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.50 10114.92
+7651 x:0.09 y:0.18 z:1.06 acc:1.08 inst:6.87 dt:13 timee:10000 pComp:1.74 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.64 9221.18
+7665 x:0.08 y:0.20 z:1.06 acc:1.08 inst:6.89 dt:14 timee:10000 pComp:1.74 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.77 10115.19
+7678 x:0.08 y:0.20 z:1.06 acc:1.08 inst:6.90 dt:13 timee:10000 pComp:1.75 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2037.89 10115.32
+7691 x:0.08 y:0.20 z:1.06 acc:1.08 inst:6.92 dt:13 timee:10000 pComp:1.75 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.03 9221.58
+7705 x:0.08 y:0.20 z:1.06 acc:1.08 inst:6.94 dt:14 timee:10000 pComp:1.76 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.17 9221.71
+7719 x:0.11 y:0.18 z:1.04 acc:1.06 inst:6.96 dt:14 timee:10000 pComp:1.77 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.30 10115.72
+7732 x:0.11 y:0.18 z:1.04 acc:1.06 inst:6.98 dt:13 timee:10000 pComp:1.77 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.44 9221.98
+7746 x:0.11 y:0.19 z:1.03 acc:1.05 inst:6.99 dt:14 timee:10000 pComp:1.78 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.57 10115.99
+7759 x:0.09 y:0.19 z:1.05 acc:1.08 inst:7.01 dt:13 timee:10000 pComp:1.78 iComp:3.00 dComp:-0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.70 10116.12
+7772 x:0.09 y:0.19 z:1.05 acc:1.08 inst:7.03 dt:13 timee:10000 pComp:1.79 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.85 8501.26
+7787 x:0.07 y:0.19 z:1.06 acc:1.08 inst:7.05 dt:15 timee:10000 pComp:1.79 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2038.98 10116.40
+7800 x:0.07 y:0.19 z:1.06 acc:1.08 inst:7.07 dt:13 timee:10000 pComp:1.80 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.11 10116.53
+7813 x:0.08 y:0.20 z:1.06 acc:1.08 inst:7.08 dt:13 timee:10000 pComp:1.80 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.24 10116.66
+7826 x:0.08 y:0.20 z:1.06 acc:1.08 inst:7.10 dt:13 timee:10000 pComp:1.81 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.38 9222.92
+7840 x:0.09 y:0.19 z:1.05 acc:1.07 inst:7.12 dt:14 timee:10000 pComp:1.81 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.51 10116.93
+7853 x:0.09 y:0.19 z:1.05 acc:1.07 inst:7.14 dt:13 timee:10000 pComp:1.82 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.65 9223.20
+7867 x:0.07 y:0.19 z:1.04 acc:1.06 inst:7.16 dt:14 timee:10000 pComp:1.83 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.80 9223.34
+7881 x:0.08 y:0.20 z:1.04 acc:1.06 inst:7.17 dt:14 timee:10000 pComp:1.84 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2039.93 10117.35
+7894 x:0.08 y:0.20 z:1.04 acc:1.06 inst:7.19 dt:13 timee:10000 pComp:1.84 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2040.06 10117.48
+7907 x:0.10 y:0.21 z:1.03 acc:1.06 inst:7.21 dt:13 timee:10000 pComp:1.85 iComp:3.00 dComp:0.00 FF:-0.03 PID:2.00
+No roots in between range
+2040.21 9223.75
+7921 x:0.10 y:0.21 z:1.03 acc:1.06 inst:7.23 dt:14 timee:10000 pComp:

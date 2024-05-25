@@ -1,0 +1,4 @@
+Finished setup, waiting to start, PID: p:0.30 i:0.00 d:1
+UPLoading
+1.00 1.00 3.00 1.00 5.00 2.00 4.00 0.00 
+0 5 1 1 2 2 3 5003 
