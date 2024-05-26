@@ -1,0 +1,4 @@
+Finished setup, waiting to start, PID: p:0.02 i(x100):0.30 d(x10):0.01 iCap:100
+UPLoading
+1.00 3.00 100008.00 4.00 10.00 1.00 0.00 
+0 5000 15000 20000 30000 35000 0 

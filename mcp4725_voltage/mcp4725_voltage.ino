@@ -7,6 +7,14 @@
 #include "Wire.h"
 #include "MCP4725.h"
 #include <string.h>
+#include <SPI.h>
+#include "RF24.h"
+
+#define CE_PIN 7
+#define CSN_PIN 8
+
+// instantiate an object for the nRF24L01 transceiver
+RF24 radio(CE_PIN, CSN_PIN);
 
 MCP4725 MCP(0x60);
 
@@ -18,8 +26,14 @@ boolean inputState = false;
 boolean lastInputState = false;
 long count = 0L;
 
+boolean radioConnected = false;
+
 float avgRPM = 0;
 float numPoints = 0;
+
+float payload[3] = {0, 0, 0};
+uint8_t address[][6] = { "1Node", "2Node" };
+float accelMag;
 
 unsigned long previousCountMillis = millis();
 const long countMillis = 500L;
@@ -44,6 +58,17 @@ void setup()
 
   pinMode(inputPin, INPUT);
 
+  if (!radio.begin()) {
+    Serial.println(F("radio hardware is not responding!!"));
+  }else{
+    radioConnected = true;
+    radio.setPALevel(RF24_PA_LOW);
+    radio.setPayloadSize(sizeof(payload));  // float datatype occupies 4 bytes
+    // set the RX address of the TX node into a RX pipe
+    radio.openReadingPipe(1, address[!0]);
+    radio.startListening();
+  }
+
   Serial.print("\nVoltage:\t");
   Serial.println(MCP.getVoltage());
   Serial.println();
@@ -63,7 +88,24 @@ char cbreakOn = 0;
 float i = 0;
 String f = "";
 void loop() {
-
+  if(radioConnected){
+    uint8_t pipe;
+    if (radio.available(&pipe)) {              // is there a payload? get the pipe number that recieved it
+      uint8_t bytes = radio.getPayloadSize();  // get the size of the payload
+      radio.read(&payload, bytes);             // fetch payload from FIFO
+      // Serial.print(F("Received "));
+      // Serial.print(bytes);  // print the size of the payload
+      // Serial.print(F(" bytes on pipe "));
+      // Serial.print(pipe);  // print the pipe number
+      // Serial.print(F(": "));
+      // Serial.print(payload[0]);  // print the payload's value
+      // Serial.print(" ");  // print the payload's value
+      // Serial.print(payload[1]);  // print the payload's value
+      // Serial.print(" ");  // print the payload's value
+      // Serial.println(payload[2]);  // print the payload's value
+      accelMag = sqrt(payload[0]*payload[0] + payload[1]*payload[1] + payload[2]*payload[2]);
+    }
+  }
   inputState = digitalRead(inputPin);
   // count every transision HIGH<->LOW
   if (inputState != lastInputState) {
@@ -75,18 +117,18 @@ void loop() {
   // startTime = millis();
   // curTime = millis();
   // Serial.println(breakOn); 
-  if (inputt == 'c') {       // controller enabled
+  if (inputt == 'C') {       // controller enabled
       digitalWrite(5, HIGH);
       digitalWrite(3, HIGH);
   }
-  else if (inputt == 'C'){        // controller disabled
+  else if (inputt == 'c'){        // controller disabled
       digitalWrite(5, LOW);
   }
-  else if (inputt == 'm'){        // break on
+  else if (inputt == 'm'){        // brake on
     digitalWrite(3, LOW);
     digitalWrite(5, LOW);
   }
-  else if (inputt == 'M'){        // break off
+  else if (inputt == 'M'){        // brake off
     digitalWrite(3, HIGH);
   }else if (inputt == 'R'){        // reset avg
     avgRPM = 0;
@@ -107,6 +149,7 @@ void loop() {
     f = "";
     while (inputt != ';'){
       f = f + inputt;
+      Serial.print(f);
       inputt = Serial.read(); 
     }
     i = atof(f.c_str());
@@ -119,20 +162,32 @@ void loop() {
     
     // show Hz on Serial too if available
     float rpm = (count*20)/4.0;
-    Serial.print(rpm); 
     float sum = avgRPM * numPoints;
     sum += rpm;
     numPoints ++;
     avgRPM = sum/numPoints;
+    Serial.print(millis());
+    Serial.print("ms, ");
+    Serial.print(rpm); 
     Serial.print("RPM, ");
     Serial.print(avgRPM);
     Serial.print("avgRPM, ");
-    // Serial.print(sum);
-    // Serial.print(" sum, ");
-    // Serial.print(numPoints);
-    // Serial.print(" points, ");
     Serial.print(i);
-    Serial.println("V");
+    Serial.print("V ");
+    Serial.print(digitalRead(5) ? "MTR_ENA " : "MTR_DIS ");
+    Serial.println(digitalRead(3) ? "NOT BRAKING" : "YES BRAKING");
+    if(radioConnected){
+      Serial.print("x[");
+      Serial.print(payload[0]);
+      Serial.print("] y[");
+      Serial.print(payload[1]);
+      Serial.print("] z[");
+      Serial.print(payload[2]);
+      Serial.print("] mag[");
+      Serial.print(accelMag);
+      Serial.print("]");
+    }
+    
 
     // reset to zero for the next half second's sample
     count = 0L;

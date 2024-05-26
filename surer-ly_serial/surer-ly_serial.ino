@@ -16,20 +16,35 @@
 
 #define VOLT_SET_DIRECT 0
 
-#define RADIANS_PER_SECOND_TO_VOLTAGE 0.298415518297
-#define RPM_TO_VOLTAGE 0.03125
+// #define RADIANS_PER_SECOND_TO_VOLTAGE 0.298415518297
+// #define RPM_TO_VOLTAGE 0.03125
+#define VOLTS_TO_RAD(V) VOLTS_TO_RPM(V) * PI / 30
+#define RAD_TO_VOLTS(R) RPM_TO_VOLTS(V) * 30 / PI
+
+#define VOLTS_TO_RPM(V) (-3.17 + 59.6*V - 5.41*V*V)
+#define RPM_TO_VOLTS(R) (59.6 - sqrt(3552.16 - (3.17 + R) * 21.64)) / 10.82
+
 #define RADIUS  1.37
+
+#define Brake_threshold_G_per_s -0.8
 
 #define BISECTION_ITERATIONS 10
 
-#define BIG_PRINT 1
-#define LOG_PRINT 0
+#define BIG_PRINT 0
+#define LOG_PRINT 1
+
+#define Brake_threshold_G_per_ms Brake_threshold_G_per_s/1000.0
+#define G_natural_descent(R) 0.0409 + R* 0.000219 + 0.00000112 * R * R 
 
 //PID variables
-#define kP 0.02
-#define kI 0.003
-#define kD 0.001
-#define integralCap 100
+// #define kP 0.12
+// #define kI 0.1
+// #define kD 0.001
+#define integralCap 15
+
+#define kP 0.2
+#define kI 0
+#define kD 0.0
 
 // instantiate an object for the nRF24L01 transceiver
 RF24 radio(CE_PIN, CSN_PIN);
@@ -38,7 +53,7 @@ MCP4725 MCP(0x60);
 
 // outputData myData;
 int myData = 0;
-
+int timerCounter = 0;
 // char inByte;
 String inst;
 char runstatus = 0;                                       //u for uploading, w for uploaded Waiting for start, r for running
@@ -84,6 +99,7 @@ void setup() {
   pinMode(2, OUTPUT);           // Initialize pin 2 for motor controller 
   pinMode(3, OUTPUT);
   pinMode(5, OUTPUT);           // motor controller enable break
+  pinMode(LED_BUILTIN, OUTPUT);
   // start serial port :
   Serial.begin(115200);
   pinMode(LED_BUILTIN, OUTPUT);
@@ -192,11 +208,11 @@ void loop() {
       }else if(inst.equals("UPLOAD") && (runstatus == 0 || runstatus == 'w')){                                      //UPLOAD button pressed
         runstatus = 'u';
         Serial.println("UPLoading");
-        // for (int i = 0; i < MAXLENGTH; i ++){
-        //   timee[i] = 0;
-        //   expectedGravity[i] = 0;
-        // }
-
+        for (int i = 0; i < MAXLENGTH; i ++){
+          timee[i] = 0;
+          expectedGravity[i] = 0;
+        }
+        counter = 0;
         digitalWrite(LED_BUILTIN,HIGH);
         delay(500);
         digitalWrite(LED_BUILTIN,LOW);
@@ -227,7 +243,7 @@ void loop() {
           //In case last gravity entri is not 0
           timee[counter / 2] = timee[counter / 2 - 1] + 5000;
           counter ++;
-          expectedGravity[counter/2 + 1] = 1;
+          expectedGravity[counter/2 ] = 1;
           runstatus = 'w';
           expectedLength = counter / 2 + 1;
           for (int k = 0; k < expectedLength; k++){
@@ -255,26 +271,28 @@ void loop() {
     while (curTime > timee[expectedCounter]) {
       expectedCounter ++;
     }
+    float slope = (expectedGravity[expectedCounter] - expectedGravity[expectedCounter-1]) / (timee[expectedCounter ] - timee[expectedCounter-1]);
     if (expectedCounter == 0){
       if (timee[expectedCounter] == 0) {
         expectedInstGravity = 0;
       }else {
-        expectedInstGravity =  (expectedGravity[expectedCounter] * 1.0 / timee[expectedCounter] * curTime );
+        expectedInstGravity =  (expectedGravity[expectedCounter] * 1.0 / timee[expectedCounter] * curTime);
       }
     } else if (expectedCounter >= expectedLength) {
       runstatus = 0;
       Serial.print("Run finished ");
+      MCP.setVoltage(0);
       digitalWrite(3, HIGH);
       digitalWrite(5, LOW);
     } else {
-      expectedInstGravity = ((expectedGravity[expectedCounter] * 1.0 - expectedGravity[expectedCounter-1]) / ((timee[expectedCounter ]*1.0 - timee[expectedCounter-1]))* (curTime*1.0 - timee[expectedCounter-1]) + expectedGravity[expectedCounter-1]);
+      expectedInstGravity = (slope * (curTime*1.0 - timee[expectedCounter-1]) + expectedGravity[expectedCounter-1]);
     }
     if (expectedCounter < expectedLength){
-      float interpolateGradient = (expectedGravity[expectedCounter] * 1.0 - expectedGravity[expectedCounter-1]) / (timee[expectedCounter ]*1.0 - timee[expectedCounter-1]);
+      // float interpolateGradient = (expectedGravity[expectedCounter] * 1.0 - expectedGravity[expectedCounter-1]) / (timee[expectedCounter ]*1.0 - timee[expectedCounter-1]);
 
       error = expectedInstGravity - acc;
 
-      if (expectedGravity[expectedCounter]  < expectedGravity[expectedCounter-1]){
+      if (slope < Brake_threshold_G_per_ms){
         digitalWrite(5, LOW);
         MCP.setVoltage(0);
         // digitalWrite(3, LOW);      
@@ -313,16 +331,19 @@ void loop() {
         // Serial.print(pid / RPM_TO_VOLTAGE);
         // Serial.print("theValue:");
         // Serial.println(theValue / RPM_TO_VOLTAGE);
-        float bisectedFF = bisection( pid / RPM_TO_VOLTAGE, pid / RPM_TO_VOLTAGE+ 10, pid / RADIANS_PER_SECOND_TO_VOLTAGE, dt/1000.0, expectedAccel);
-        if(bisectedFF < 0 || bisectedFF != bisectedFF){
-          FF = RPM_TO_VOLTAGE * theValue;
+        float bisectedFF = bisection( VOLTS_TO_RPM(pid), VOLTS_TO_RPM(pid) + 10, VOLTS_TO_RAD(pid), dt/1000.0, expectedAccel);
+        if(expectedInstGravity <= 1){
+          FF = 0;
+        }
+        else if(bisectedFF < 0 || bisectedFF != bisectedFF){
+          FF = RPM_TO_VOLTS(theValue);
           #if BIG_PRINT
             Serial.print("NO_BS[");
             Serial.print(FF);
             Serial.print("]");
           #endif
         }else{
-          FF = RPM_TO_VOLTAGE * bisectedFF;
+          FF = RPM_TO_VOLTS(bisectedFF);
         }
         integral += (dt/1000.0) * (error + lastError) / 2;
         if (integral > integralCap){
@@ -384,21 +405,24 @@ void loop() {
       }
     }
 
-    
     #if LOG_PRINT
-      Serial.print(curTime);
-      Serial.print("\t");
-      Serial.print(acc);
-      Serial.print("\t");
-      Serial.print(expectedInstGravity);
-      Serial.print("\t");
-      Serial.print(pid);
-      Serial.print("\t");
-      Serial.print(digitalRead(3));
-      Serial.print("\t");
-      Serial.println(digitalRead(5));
+      timeCounter++;
+      if (timeCounter > 10){
+        timeCounter = 0; 
+        Serial.print(curTime);
+        Serial.print("\t");
+        Serial.print(acc);
+        Serial.print("\t");
+        Serial.print(expectedInstGravity);
+        Serial.print("\t");
+        Serial.println(pid);
+        // Serial.print("\t");
+        // Serial.print(digitalRead(3));
+        // Serial.print("\t");
+        // Serial.println(digitalRead(5));
+        digitalWrite(LED_BUILTIN, !digitalRead(LED_BUILTIN));
+      }
     #endif
-    
 
     lastError = error;
     preTime = curTime;
