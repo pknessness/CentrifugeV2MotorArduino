@@ -1,0 +1,13 @@
+C:\Users\User\Documents\Arduino\CentrifugeV2MotorArduino\mcp4725_voltage\mcp4725_voltage.ino
+MCP4725_VERSION: 0.4.0
+
+Voltage:	0.00
+
+
+1017ms, 5.00RPM, 5.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.32] z[1.04] mag[1.09] 15.71 degrees
+1021ms, 0.00RPM, 2.50avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.31] z[1.04] mag[1.08] 14.32 degrees
+1500ms, 0.00RPM, 1.67avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.34] z[1.05] mag[1.11] 16.97 degrees
+2000ms, 0.00RPM, 1.25avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.35] z[1.07] mag[1.12] 19.29 degrees
+2500ms, 0.00RPM, 1.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.00] y[0.35] z[1.07] mag[1.13] 21.15 degrees
+3000ms, 0.00RPM, 0.83avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.00] y[0.37] z[1.08] mag[1.14] 21.47 degrees
+3500ms, 0.00RPM, 0.71avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.34] z[1.04] mag[1.09] 15.04 degrees

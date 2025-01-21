@@ -1,0 +1,30 @@
+C:\Users\User\Documents\Arduino\CentrifugeV2MotorArduino\mcp4725_voltage\mcp4725_voltage.ino
+MCP4725_VERSION: 0.4.0
+
+Voltage:	0.00
+
+
+1017ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.31] z[1.05] mag[1.10] 17.78 degrees
+1021ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.32] z[1.06] mag[1.11] 18.01 degrees
+1500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.32] z[1.04] mag[1.08] 13.82 degrees
+2000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.32] z[1.05] mag[1.10] 17.27 degrees
+2500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[-0.00] y[0.32] z[1.05] mag[1.10] 17.41 degrees
+3000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[-0.03] y[0.31] z[1.08] mag[1.12] 23.18 degrees
+3500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.34] z[1.05] mag[1.10] 16.81 degrees
+4000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.33] z[1.06] mag[1.11] 19.12 degrees
+4500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.02] y[0.34] z[1.03] mag[1.08] 11.52 degrees
+5000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.36] z[1.04] mag[1.10] 15.04 degrees
+5500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS YES BRAKINGx[0.01] y[0.34] z[1.04] mag[1.09] 15.32 degrees
+6000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[0.02] y[0.36] z[1.04] mag[1.10] 15.08 degrees
+6500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.00] y[0.31] z[1.05] mag[1.10] 17.98 degrees
+7000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.01] y[0.34] z[1.04] mag[1.09] 16.29 degrees
+7500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.01] y[0.34] z[1.06] mag[1.11] 20.06 degrees
+8000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[0.02] y[0.33] z[1.04] mag[1.09] 14.98 degrees
+8500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS NOT BRAKINGx[0.02] y[0.35] z[1.04] mag[1.10] 15.71 degrees
+9000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS NOT BRAKINGx[-0.01] y[0.35] z[1.04] mag[1.09] 15.80 degrees
+9500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_DIS NOT BRAKINGx[-0.01] y[0.34] z[1.04] mag[1.10] 17.17 degrees
+10000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[0.00] y[0.36] z[1.04] mag[1.10] 16.49 degrees
+10500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[0.01] y[0.30] z[1.13] mag[1.17] 27.43 degrees
+11000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.01] y[0.35] z[1.05] mag[1.11] 17.86 degrees
+11500ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.01] y[0.36] z[1.05] mag[1.11] 17.52 degrees
+12000ms, 0.00RPM, 0.00avgRPM, 0.00V MTR_ENA NOT BRAKINGx[-0.01] y[0.32] z[1.06] mag[1.11] 20.78 degrees

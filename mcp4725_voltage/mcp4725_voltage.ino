@@ -13,6 +13,13 @@
 #define CE_PIN 7
 #define CSN_PIN 8
 
+#define GONDOLA_RADIUS 0.2
+
+#define RADIUS 1.37
+
+#define GONDOLA_ANGLE(a_n, a_r) asin((-a_n + sqrt(a_n*a_n - (a_r*a_r+a_n*a_n)*(1-(a_r*a_r))))/(a_r*a_r + a_n*a_n))
+#define GONDOLA_DISPLACE(a_n, a_r) GONDOLA_RADIUS * (-a_n + sqrt(a_n*a_n - (a_r*a_r+a_n*a_n)*(1-(a_r*a_r))))/(a_r*a_r + a_n*a_n) 
+
 // instantiate an object for the nRF24L01 transceiver
 RF24 radio(CE_PIN, CSN_PIN);
 
@@ -166,6 +173,15 @@ void loop() {
     sum += rpm;
     numPoints ++;
     avgRPM = sum/numPoints;
+    Serial.print("x[");
+      Serial.print(payload[0]);
+      Serial.print("] y[");
+      Serial.print(payload[1]);
+      Serial.print("] z[");
+      Serial.print(payload[2]);
+      Serial.print("] mag[");
+      Serial.print(accelMag);
+      Serial.print("] ");
     Serial.print(millis());
     Serial.print("ms, ");
     Serial.print(rpm); 
@@ -175,18 +191,24 @@ void loop() {
     Serial.print(i);
     Serial.print("V ");
     Serial.print(digitalRead(5) ? "MTR_ENA " : "MTR_DIS ");
-    Serial.println(digitalRead(3) ? "NOT BRAKING" : "YES BRAKING");
+    Serial.print(digitalRead(3) ? "NOT BRAKING" : "YES BRAKING");
     if(radioConnected){
-      Serial.print("x[");
-      Serial.print(payload[0]);
-      Serial.print("] y[");
-      Serial.print(payload[1]);
-      Serial.print("] z[");
-      Serial.print(payload[2]);
-      Serial.print("] mag[");
-      Serial.print(accelMag);
-      Serial.print("]");
+      // Serial.print("x[");
+      // Serial.print(payload[0]);
+      // Serial.print("] y[");
+      // Serial.print(payload[1]);
+      // Serial.print("] z[");
+      // Serial.print(payload[2]);
+      // Serial.print("] mag[");
+      // Serial.print(accelMag);
+      // Serial.print("] ");
+      // Serial.print(GONDOLA_ANGLE(payload[1],payload[2]) * 180 / PI);
+      // Serial.print(" degrees");
+
+      // Serial.print(GONDOLA_DISPLACE(payload[1],payload[2]) + RADIUS);
+      // Serial.print(" meters");
     }
+    Serial.println();
     
 
     // reset to zero for the next half second's sample
