@@ -95,6 +95,10 @@ unsigned long timee[MAXLENGTH] = {0};
 float expectedGravity[MAXLENGTH] ={0};
 float actualGravity[MAXACTUALLENGTH] = {0};
 float actualTime[MAXACTUALLENGTH] ={0};
+
+int uP = 0;
+char uploadNumber[16] = {0};
+
 unsigned long loopTimer;
 double actual_value;
 unsigned int long timeStamp;
@@ -115,6 +119,10 @@ void setup() {
   pinMode(LED_BUILTIN, OUTPUT);
   Wire.begin();
 
+  for (int i = 0; i < MAXACTUALLENGTH; i ++){
+    actualTime[i] = 0;
+    actualGravity[i] = 0;
+  }
 
   MCP.begin();
   //  calibrate max voltage
@@ -172,7 +180,6 @@ void loop() {
   if((timeStart - loopTimer)> 200){
       //int randomValue = random(1000)/100.0;
       if(timeCounter >= MAXACTUALLENGTH) {
-   
         timeCounter = 0;
       }
       if(timeCounter < MAXACTUALLENGTH){
@@ -199,6 +206,43 @@ void loop() {
     char inByte = Serial.read();
     if (inByte == '\n' || inByte == '\r' || inByte == ' ' || inByte < ' ' || inByte > '~'){                 //skip over white spaces
       
+    }else if(runstatus == 'u'){                                               // uploading 
+      // Serial.print(uP);
+      // Serial.print(", ");
+      // Serial.println(uploadNumber);
+      if ((57 >= inByte && 48 <= inByte) || inByte == '.') {
+          uploadNumber[uP++] = inByte;
+      }
+      else if(inByte == 'M'){
+        timee[counter/2] = atol(uploadNumber);
+        for(int i = 0; i < 16; i ++) uploadNumber[i] = 0;
+        uP = 0;
+        counter++;
+      }else if(inByte == 'G'){
+        expectedGravity[counter/2] = atof(uploadNumber);
+        if(expectedGravity[counter/2] < 1) expectedGravity[counter/2] = 1;
+        for(int i = 0; i < 16; i ++) uploadNumber[i] = 0;
+        uP = 0;
+        counter++;
+      }else if(inByte == ';'){
+        //In case last gravity entri is not 0
+        timee[counter / 2] = timee[counter / 2 - 1] + 5000;
+        counter ++;
+        expectedGravity[counter/2 ] = 1;
+        runstatus = 'w';
+        expectedLength = counter / 2 + 1;
+        for (int k = 0; k < expectedLength; k++){
+          Serial.print(expectedGravity[k]);
+          Serial.print(" ");
+        }
+        Serial.println();
+        for (int k = 0; k < expectedLength; k++){
+          Serial.print(timee[k]);
+          Serial.print(" ");
+        }
+        Serial.println();
+        instructionPointer = 0;
+      }
     }else if(inByte != ';'){                                                // ';' character stops uploading status
       //inst += inByte;
       instruction[instructionPointer++] = inByte;
@@ -212,11 +256,11 @@ void loop() {
       //Serial.print(instruction);
       //Serial.println(">");
       if(instruction[0] == 'S' && instruction[1] == 'T' && instruction[2] == 'A' && instruction[3] == 'R' && instruction[4] == 'T'){                         //START button pressed AND uploaded inputs
+      timeStamp = millis();
         if(runstatus == 'w'){
           // start = true;
           runstatus = 'r';
           digitalWrite(LED_BUILTIN,HIGH);
-          timeStamp = millis();
           runStartTime = millis();
         }else{
           Serial.print("WRONG STATE TO START "); 
@@ -233,7 +277,7 @@ void loop() {
           Serial.println(runstatus); 
         }
       }else if(instruction[0] == 'R' && instruction[1] == 'E' && instruction[2] == 'Q' && instruction[3] == 'U' && instruction[4] == 'E' && instruction[5] == 'S' && instruction[6] == 'T'){
-        for(int j = 0; j < MAXLENGTH; j ++){
+        for(int j = 0; j < MAXACTUALLENGTH; j ++){
           Serial.print(actualTime[j]);  
           Serial.print("ms");  
           Serial.print(actualGravity[j]);  
@@ -258,6 +302,7 @@ void loop() {
             expectedGravity[i] = 0;
           }
           counter = 0;
+          uP = 0;
           // digitalWrite(LED_BUILTIN,HIGH);
           // delay(500);
           // digitalWrite(LED_BUILTIN,LOW);
